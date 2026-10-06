@@ -1,0 +1,93 @@
+/* Sunburst Chart Container */
+.sunburst-chart-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+}
+
+/* Tooltip Styling */
+.tooltip {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    color: black;
+    background: white;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 8px;
+    text-align: left; /* Left align the text inside the tooltip */
+    position: absolute;
+    display: none;
+    pointer-events: none;
+    box-shadow: 3px 3px 12px rgba(0, 0, 0, 0.3);
+    max-width: 250px; /* Optional: Make sure the tooltip doesn't overflow */
+    word-wrap: break-word; /* Wrap long text in the tooltip */
+}
+
+/* Sunburst Chart Path Hover Effect */
+path {
+    transition: 0.3s ease;
+    cursor: pointer;
+}
+
+/* Hover Effect on Sunburst Segments */
+path:hover {
+    opacity: 0.8;
+    stroke: #fff;
+    stroke-width: 2; /* Slightly thicker stroke for hover effect */
+}
+
+/* Text inside Sunburst Chart */
+text {
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    fill: white;
+    text-anchor: middle;
+    pointer-events: none;
+    user-select: none; /* Prevent text selection */
+}
+
+/* Title Styling for Sunburst Chart */
+.sunburst-chart-container h2 {
+    font-family: Arial, sans-serif;
+    font-size: 24px;
+    text-align: center;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+/* General Styling for the SVG in Sunburst Chart */
+#sunburst-chart {
+    width: 100%;
+    height: 100%;
+    max-width: 900px; /* Limit max-width to prevent overflow */
+    max-height: 900px; /* Limit max-height */
+    margin: auto;
+}
+
+/* Tooltip position and animation */
+.tooltip {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0.7);
+    border-radius: 4px;
+    padding: 10px;
+    display: none;
+    position: absolute;
+    pointer-events: none;
+    transition: 0.3s;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.2);
+    max-width: 250px;
+    word-wrap: break-word;
+}
+
+/* Additional Effect for Tooltip Hover */
+.tooltip:hover {
+    opacity: 1;
+    transition: 0.2s ease;
+}

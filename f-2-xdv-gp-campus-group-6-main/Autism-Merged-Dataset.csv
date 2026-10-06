@@ -1,0 +1,1101 @@
+a1_score,a2_score,a3_score,a4_score,a5_score,a6_score,a7_score,a8_score,a9_score,a10_score,age,gender,ethnicity,jaundice,autism,country_of_res,used_app_before,result,age_desc,relation,class/asd,age_group
+1,1,1,1,0,0,1,1,0,0,26.0,female,white-european,no,no,united states,no,6.0,18 and more,self,no,adult
+1,1,0,1,0,0,0,1,0,1,24.0,male,latino,no,yes,brazil,no,5.0,18 and more,self,no,adult
+1,1,0,1,1,0,1,1,1,1,27.0,male,latino,yes,yes,spain,no,8.0,18 and more,parent,yes,adult
+1,1,0,1,0,0,1,1,0,1,35.0,female,white-european,no,yes,united states,no,6.0,18 and more,self,no,adult
+1,0,0,0,0,0,0,1,0,0,40.0,female,unknown,no,no,egypt,no,2.0,18 and more,self,no,adult
+1,1,1,1,1,0,1,1,1,1,36.0,male,others,yes,no,united states,no,9.0,18 and more,self,yes,adult
+0,1,0,0,0,0,0,1,0,0,17.0,female,black,no,no,united states,no,2.0,18 and more,self,no,adult
+1,1,1,1,0,0,0,0,1,0,64.0,male,white-european,no,no,new zealand,no,5.0,18 and more,parent,no,adult
+1,1,0,0,1,0,0,1,1,1,29.0,male,white-european,no,no,united states,no,6.0,18 and more,self,no,adult
+1,1,1,1,0,1,1,1,1,0,17.0,male,asian,yes,yes,bahamas,no,8.0,18 and more,health care professional,yes,adult
+1,1,1,1,1,1,1,1,1,1,33.0,male,white-european,no,no,united states,no,10.0,18 and more,relative,yes,adult
+0,1,0,1,1,1,1,0,0,1,18.0,female,middle eastern,no,no,burundi,no,6.0,18 and more,parent,no,adult
+0,1,1,1,1,1,0,0,1,0,17.0,female,unknown,no,no,bahamas,no,6.0,18 and more,self,no,adult
+1,0,0,0,0,0,1,1,0,1,17.0,male,unknown,no,no,austria,no,4.0,18 and more,self,no,adult
+1,0,0,0,0,0,1,1,0,1,17.0,female,unknown,no,no,argentina,no,4.0,18 and more,self,no,adult
+1,1,0,1,1,0,0,1,0,1,18.0,male,middle eastern,no,yes,new zealand,no,6.0,18 and more,parent,no,adult
+1,0,0,0,0,0,1,1,1,1,31.0,male,middle eastern,no,no,jordan,no,5.0,18 and more,self,no,adult
+0,0,0,0,0,0,0,1,0,1,30.0,male,white-european,no,no,ireland,no,2.0,18 and more,self,no,adult
+0,0,1,0,1,1,0,0,0,0,35.0,female,middle eastern,no,yes,united arab emirates,no,3.0,18 and more,self,no,adult
+0,0,0,0,0,0,1,1,0,1,34.0,male,unknown,yes,no,united arab emirates,no,3.0,18 and more,self,no,adult
+0,1,1,1,0,0,0,0,0,0,38.0,male,unknown,no,no,united arab emirates,no,3.0,18 and more,self,no,adult
+0,0,0,0,0,0,0,0,0,0,27.0,female,black,no,no,united arab emirates,no,0.0,18 and more,self,no,adult
+0,0,0,1,0,0,1,1,1,1,27.0,male,middle eastern,no,no,afghanistan,no,5.0,18 and more,self,no,adult
+0,0,0,0,0,0,0,1,0,1,42.0,male,middle eastern,yes,no,united arab emirates,no,2.0,18 and more,relative,no,adult
+1,1,1,1,0,0,0,1,0,0,43.0,male,unknown,no,no,lebanon,no,5.0,18 and more,self,no,adult
+0,1,1,0,0,0,0,1,0,0,24.0,female,unknown,yes,no,afghanistan,no,3.0,18 and more,self,no,adult
+0,0,0,0,0,0,0,1,0,0,40.0,male,pasifika,yes,yes,united arab emirates,no,1.0,18 and more,self,no,adult
+0,0,0,0,0,0,0,1,0,0,40.0,male,middle eastern,yes,yes,afghanistan,no,1.0,18 and more,parent,no,adult
+0,0,0,0,0,0,0,1,0,0,48.0,male,black,no,no,new zealand,no,1.0,18 and more,self,no,adult
+0,1,1,0,0,0,0,0,1,1,31.0,male,middle eastern,no,no,united kingdom,no,4.0,18 and more,self,no,adult
+0,0,0,0,0,0,0,0,0,0,18.0,male,white-european,no,no,united kingdom,no,0.0,18 and more,self,no,adult
+1,0,0,1,1,1,1,1,0,1,37.0,female,white-european,no,yes,united states,no,7.0,18 and more,self,yes,adult
+1,1,0,0,0,0,1,0,0,1,55.0,female,others,no,no,new zealand,no,4.0,18 and more,self,no,adult
+1,1,1,1,1,1,1,1,1,1,18.0,female,white-european,yes,no,south africa,no,10.0,18 and more,self,yes,adult
+1,1,1,1,1,1,1,1,1,1,18.0,female,white-european,no,no,south africa,no,10.0,18 and more,self,yes,adult
+0,0,1,0,0,0,0,0,0,0,55.0,male,white-european,no,no,new zealand,no,1.0,18 and more,self,no,adult
+0,1,1,0,1,0,0,1,1,1,50.0,male,middle eastern,no,no,united arab emirates,no,6.0,18 and more,self,no,adult
+1,0,1,1,1,1,0,0,1,0,34.0,female,white-european,no,no,new zealand,no,6.0,18 and more,self,no,adult
+1,0,0,1,1,1,1,0,1,1,53.0,female,white-european,no,no,new zealand,no,7.0,18 and more,self,yes,adult
+1,0,1,1,0,1,1,1,1,1,35.0,female,white-european,no,yes,united states,no,8.0,18 and more,self,yes,adult
+1,0,1,1,1,0,1,1,0,1,20.0,female,latino,yes,no,italy,no,7.0,18 and more,self,yes,adult
+0,0,0,0,1,1,0,0,0,0,28.0,female,asian,no,no,pakistan,no,2.0,18 and more,self,no,adult
+0,0,1,1,0,0,0,0,0,1,34.0,female,middle eastern,no,yes,egypt,no,3.0,18 and more,self,no,adult
+0,1,1,1,0,0,0,0,0,1,36.0,female,white-european,yes,yes,united states,no,4.0,18 and more,self,no,adult
+1,1,1,1,1,1,0,1,0,1,27.0,female,white-european,no,no,new zealand,no,8.0,18 and more,self,yes,adult
+1,0,1,1,1,1,0,1,1,0,53.0,female,white-european,no,no,new zealand,no,7.0,18 and more,relative,yes,adult
+1,1,1,1,0,1,0,0,0,0,24.0,female,pasifika,no,no,new zealand,no,5.0,18 and more,relative,no,adult
+0,0,1,1,1,0,1,0,0,0,24.0,male,pasifika,no,no,new zealand,no,4.0,18 and more,relative,no,adult
+0,1,1,0,0,1,0,0,0,0,55.0,male,white-european,no,no,new zealand,no,3.0,18 and more,relative,no,adult
+1,1,0,0,0,1,1,1,0,1,30.0,female,asian,no,no,bangladesh,no,6.0,18 and more,self,no,adult
+1,0,0,1,0,0,0,1,0,0,21.0,female,latino,no,no,chile,no,3.0,18 and more,self,no,adult
+1,1,1,1,1,1,1,1,1,1,35.0,female,black,no,no,france,no,10.0,18 and more,parent,yes,adult
+1,0,0,0,0,0,0,0,0,0,27.0,female,pasifika,no,no,new zealand,no,1.0,18 and more,self,no,adult
+1,0,1,1,1,1,1,1,0,1,21.0,male,latino,no,yes,brazil,no,8.0,18 and more,self,yes,adult
+1,1,1,1,1,1,1,1,1,1,47.0,male,white-european,no,no,united states,no,10.0,18 and more,self,yes,adult
+1,1,1,1,1,1,0,1,1,1,30.0,female,asian,no,no,china,no,9.0,18 and more,self,yes,adult
+1,0,1,1,1,1,0,1,1,1,28.0,female,white-european,no,no,australia,no,8.0,18 and more,self,yes,adult
+1,1,1,1,1,1,0,1,1,1,43.0,female,white-european,no,no,australia,no,9.0,18 and more,self,yes,adult
+1,0,0,0,1,0,0,1,0,0,32.0,female,south asian,no,yes,canada,no,3.0,18 and more,self,no,adult
+1,1,1,1,0,0,0,1,0,0,44.0,female,white-european,no,no,australia,no,5.0,18 and more,self,no,adult
+1,0,1,1,1,1,1,1,0,1,20.0,female,others,no,no,canada,no,8.0,18 and more,self,yes,adult
+1,0,1,1,0,1,1,1,0,1,20.0,female,others,no,no,canada,yes,7.0,18 and more,self,yes,adult
+0,0,0,0,0,0,0,0,0,0,27.0,male,unknown,no,no,saudi arabia,no,0.0,18 and more,self,no,adult
+1,0,0,1,1,0,0,1,1,0,19.0,male,white-european,no,no,australia,no,5.0,18 and more,parent,no,adult
+1,1,1,1,1,1,1,1,0,1,29.0,female,white-european,no,no,australia,no,9.0,18 and more,self,yes,adult
+1,0,1,0,0,0,0,1,0,0,21.0,male,middle eastern,no,no,united states,no,3.0,18 and more,self,no,adult
+0,1,0,0,0,0,0,1,0,0,27.0,male,middle eastern,no,no,france,no,2.0,18 and more,parent,no,adult
+1,0,1,0,1,1,1,1,0,0,21.0,male,hispanic,no,no,united states,no,6.0,18 and more,self,no,adult
+1,0,0,0,1,0,1,0,0,1,35.0,male,middle eastern,no,no,saudi arabia,no,4.0,18 and more,self,no,adult
+0,0,0,0,1,0,0,0,0,0,42.0,male,black,no,no,new zealand,no,1.0,18 and more,self,no,adult
+1,1,0,0,0,0,1,1,0,1,29.0,female,south asian,no,no,new zealand,no,5.0,18 and more,self,no,adult
+0,0,1,1,0,0,0,1,0,0,58.0,male,asian,no,no,new zealand,no,3.0,18 and more,self,no,adult
+1,0,1,1,0,0,1,1,0,1,21.0,male,others,no,no,united states,no,6.0,18 and more,self,no,adult
+1,1,1,0,0,0,0,1,1,1,21.0,male,others,no,no,united states,no,6.0,18 and more,self,no,adult
+0,0,1,1,1,0,0,1,1,1,37.0,female,white-european,no,yes,united states,no,6.0,18 and more,self,no,adult
+1,1,0,1,1,1,1,1,0,0,21.0,male,hispanic,no,no,united states,no,7.0,18 and more,self,yes,adult
+1,0,0,0,0,0,1,1,0,0,20.0,male,middle eastern,no,no,united states,no,3.0,18 and more,self,no,adult
+1,1,0,1,1,1,1,1,1,0,33.0,female,black,no,yes,united states,no,8.0,18 and more,self,yes,adult
+1,0,0,1,1,0,0,0,0,1,20.0,male,middle eastern,no,no,united states,no,4.0,18 and more,self,no,adult
+1,1,0,0,0,0,0,0,0,0,45.0,female,unknown,yes,no,jordan,no,2.0,18 and more,self,no,adult
+0,0,1,1,0,0,1,1,0,1,32.0,male,unknown,yes,yes,afghanistan,no,5.0,18 and more,self,no,adult
+1,0,0,0,0,0,1,0,0,1,30.0,male,unknown,no,no,jordan,no,3.0,18 and more,self,no,adult
+1,1,1,1,1,1,1,1,1,1,33.0,female,white-european,no,yes,netherlands,no,10.0,18 and more,self,yes,adult
+0,0,1,0,1,0,0,1,0,1,42.0,female,middle eastern,no,no,jordan,no,4.0,18 and more,self,no,adult
+1,1,0,0,0,0,0,0,0,0,17.0,female,white-european,no,no,new zealand,no,2.0,18 and more,self,no,adult
+1,0,0,0,0,0,0,1,0,1,27.0,female,middle eastern,no,no,united states,no,3.0,18 and more,self,no,adult
+1,0,0,1,1,1,1,1,1,1,35.0,female,middle eastern,no,yes,afghanistan,no,8.0,18 and more,parent,yes,adult
+1,0,0,0,0,0,0,0,0,0,37.0,male,white-european,no,no,united kingdom,no,1.0,18 and more,self,no,adult
+1,0,0,0,0,0,0,1,1,1,30.0,female,white-european,no,yes,united kingdom,no,4.0,18 and more,self,no,adult
+1,1,1,1,1,1,0,1,1,1,29.0,female,white-european,no,no,new zealand,no,9.0,18 and more,self,yes,adult
+1,0,1,1,0,0,0,0,0,1,17.0,female,white-european,no,yes,romania,no,4.0,18 and more,self,no,adult
+0,1,0,0,1,0,1,0,0,1,27.0,female,unknown,no,no,jordan,no,4.0,18 and more,self,no,adult
+0,0,0,1,1,1,0,1,0,1,22.0,female,pasifika,no,no,new zealand,no,5.0,18 and more,self,no,adult
+1,1,1,0,1,1,1,0,1,1,19.0,female,latino,no,yes,brazil,no,8.0,18 and more,self,yes,adult
+1,1,1,1,1,0,0,1,1,1,42.0,female,white-european,no,yes,sweden,no,8.0,18 and more,self,yes,adult
+1,1,0,0,0,0,0,1,0,1,37.0,female,white-european,no,no,united kingdom,no,4.0,18 and more,self,no,adult
+1,0,0,0,1,0,1,1,0,0,28.0,female,white-european,no,no,australia,no,4.0,18 and more,self,no,adult
+1,0,0,1,1,0,1,0,0,0,22.0,male,others,no,no,new zealand,no,4.0,18 and more,self,no,adult
+1,1,0,0,0,0,0,1,0,0,26.0,female,pasifika,no,no,tonga,no,3.0,18 and more,self,no,adult
+0,0,0,0,0,0,0,0,1,0,21.0,male,pasifika,no,no,oman,no,1.0,18 and more,self,no,adult
+0,1,1,0,0,0,0,1,0,0,26.0,female,south asian,no,no,india,no,3.0,18 and more,self,no,adult
+1,0,0,0,0,0,0,1,0,0,39.0,female,asian,no,no,philippines,no,2.0,18 and more,self,no,adult
+1,0,0,0,0,0,0,0,1,1,26.0,male,asian,no,no,new zealand,no,3.0,18 and more,self,no,adult
+1,1,0,0,1,0,1,1,0,0,26.0,male,asian,no,no,india,no,5.0,18 and more,self,no,adult
+0,0,0,0,1,1,0,1,0,1,21.0,male,south asian,no,no,india,no,4.0,18 and more,self,no,adult
+0,0,0,0,0,0,0,0,0,0,25.0,male,asian,no,no,india,no,0.0,18 and more,self,no,adult
+0,0,1,0,1,1,1,1,0,1,26.0,male,south asian,no,no,new zealand,no,6.0,18 and more,self,no,adult
+1,1,0,1,1,0,1,1,0,1,30.0,female,white-european,no,no,united states,no,7.0,18 and more,self,yes,adult
+1,0,0,1,1,1,1,0,0,0,19.0,female,asian,no,no,india,no,5.0,18 and more,parent,no,adult
+1,0,0,0,0,1,1,0,0,0,19.0,female,asian,no,no,india,no,3.0,18 and more,parent,no,adult
+1,0,1,1,1,1,1,1,1,1,25.0,female,white-european,no,yes,new zealand,no,9.0,18 and more,self,yes,adult
+0,0,1,1,0,1,0,1,1,1,23.0,male,white-european,no,no,united kingdom,no,6.0,18 and more,self,no,adult
+1,0,0,0,1,0,0,0,0,1,31.0,male,asian,no,no,sri lanka,no,3.0,18 and more,parent,no,adult
+0,1,0,0,0,0,0,1,1,1,27.0,male,asian,no,no,new zealand,no,4.0,18 and more,self,no,adult
+1,1,0,1,1,1,1,1,0,1,29.0,female,middle eastern,no,no,united arab emirates,no,8.0,18 and more,self,yes,adult
+1,0,1,1,1,1,0,1,1,0,38.0,female,white-european,no,no,united kingdom,no,7.0,18 and more,parent,yes,adult
+1,1,1,1,1,1,0,1,0,1,23.0,female,white-european,no,no,united states,no,8.0,18 and more,self,yes,adult
+1,1,1,0,1,0,1,1,0,0,27.0,male,white-european,no,no,united states,no,6.0,18 and more,self,no,adult
+1,1,1,1,1,1,0,1,1,1,27.0,female,white-european,no,no,canada,no,9.0,18 and more,self,yes,adult
+1,1,1,1,1,1,0,0,1,0,42.0,male,white-european,no,no,united states,no,7.0,18 and more,self,yes,adult
+1,1,1,1,1,1,0,1,1,1,20.0,male,white-european,no,no,united kingdom,no,9.0,18 and more,self,yes,adult
+1,0,1,1,1,1,1,1,1,1,17.0,female,white-european,no,no,united states,no,9.0,18 and more,self,yes,adult
+1,0,0,0,0,0,0,0,0,0,20.0,female,black,no,no,spain,no,1.0,18 and more,self,no,adult
+1,0,0,1,1,1,1,1,0,1,30.0,male,asian,yes,no,sierra leone,no,7.0,18 and more,self,yes,adult
+1,0,1,1,1,1,1,1,1,1,28.0,female,white-european,no,yes,australia,no,9.0,18 and more,self,yes,adult
+1,1,0,0,1,1,1,1,0,1,26.0,female,white-european,no,no,new zealand,no,7.0,18 and more,self,yes,adult
+0,0,0,0,0,0,0,0,0,0,26.0,female,white-european,no,no,australia,no,0.0,18 and more,self,no,adult
+1,0,0,1,1,1,0,1,0,1,31.0,male,middle eastern,no,yes,canada,no,6.0,18 and more,self,no,adult
+1,0,1,1,0,0,1,0,0,1,40.0,female,white-european,no,no,united kingdom,no,5.0,18 and more,self,no,adult
+1,0,0,0,1,0,0,0,1,1,39.0,female,white-european,no,yes,ireland,no,4.0,18 and more,relative,no,adult
+1,1,0,0,0,0,0,1,0,0,18.0,female,white-european,no,no,united states,no,3.0,18 and more,self,no,adult
+1,0,0,0,0,0,0,1,0,1,24.0,male,black,no,no,ethiopia,no,3.0,18 and more,self,no,adult
+1,1,0,0,0,0,0,1,0,0,23.0,male,south asian,no,no,india,no,3.0,18 and more,self,no,adult
+1,0,1,1,0,0,0,1,0,1,24.0,male,asian,no,no,india,no,5.0,18 and more,self,no,adult
+0,1,0,0,1,1,0,1,1,0,24.0,male,asian,no,no,new zealand,no,5.0,18 and more,self,no,adult
+1,0,1,1,0,0,0,1,1,1,27.0,male,asian,no,no,new zealand,no,6.0,18 and more,self,no,adult
+0,1,1,0,0,1,0,0,1,1,24.0,male,asian,no,no,new zealand,no,5.0,18 and more,self,no,adult
+0,0,0,0,1,0,0,0,0,1,25.0,male,asian,no,no,india,no,2.0,18 and more,self,no,adult
+1,0,0,0,0,0,1,0,0,1,22.0,male,asian,no,no,new zealand,no,3.0,18 and more,self,no,adult
+0,1,0,0,0,0,0,0,0,1,40.0,female,asian,no,no,new zealand,no,2.0,18 and more,self,no,adult
+0,0,1,1,0,0,0,1,0,1,23.0,male,asian,no,no,india,no,4.0,18 and more,self,no,adult
+1,0,0,0,0,0,0,1,0,0,29.0,male,south asian,no,no,india,no,2.0,18 and more,self,no,adult
+1,0,1,0,0,0,0,1,0,0,25.0,male,asian,no,no,india,no,3.0,18 and more,self,no,adult
+1,0,0,1,1,0,0,1,0,0,27.0,male,asian,no,no,india,no,4.0,18 and more,self,no,adult
+0,0,0,0,0,0,0,1,0,0,22.0,male,south asian,no,no,new zealand,no,1.0,18 and more,self,no,adult
+1,0,0,1,1,1,1,1,1,1,28.0,male,white-european,no,no,united states,no,8.0,18 and more,parent,yes,adult
+1,0,1,1,1,1,1,1,1,1,20.0,male,white-european,no,no,australia,no,9.0,18 and more,self,yes,adult
+1,1,1,1,1,1,1,1,1,1,19.0,female,white-european,no,no,romania,no,10.0,18 and more,self,yes,adult
+1,1,0,0,1,1,1,1,0,1,37.0,female,others,no,no,united states,no,7.0,18 and more,self,yes,adult
+1,1,1,1,1,0,1,1,1,0,35.0,male,white-european,yes,yes,united states,no,8.0,18 and more,self,yes,adult
+0,0,0,0,1,0,0,1,0,0,26.0,male,asian,no,no,new zealand,no,2.0,18 and more,self,no,adult
+0,1,1,1,1,0,1,1,0,1,23.0,male,asian,no,no,viet nam,no,7.0,18 and more,self,yes,adult
+1,1,0,0,1,0,0,0,0,1,32.0,female,south asian,no,no,new zealand,no,4.0,18 and more,self,no,adult
+0,0,1,0,1,0,1,0,1,1,30.0,male,asian,no,no,sri lanka,no,5.0,18 and more,self,no,adult
+1,0,0,0,1,0,1,0,0,1,31.0,male,asian,no,no,sri lanka,no,4.0,18 and more,self,no,adult
+0,0,0,0,0,0,1,1,0,1,28.0,female,asian,no,no,new zealand,no,3.0,18 and more,self,no,adult
+1,0,0,0,0,1,0,1,0,1,29.0,female,asian,no,no,sri lanka,no,4.0,18 and more,self,no,adult
+0,1,0,0,1,0,0,1,0,1,29.0,female,south asian,no,no,sri lanka,no,4.0,18 and more,self,no,adult
+1,0,0,1,0,0,0,0,1,1,29.0,female,asian,no,no,india,no,4.0,18 and more,self,no,adult
+1,0,0,0,0,0,1,1,0,0,31.0,male,asian,no,no,india,no,3.0,18 and more,self,no,adult
+0,0,0,0,0,0,0,0,0,0,36.0,male,asian,no,no,india,no,0.0,18 and more,parent,no,adult
+0,1,0,0,0,0,0,1,0,0,32.0,female,south asian,no,no,india,no,2.0,18 and more,self,no,adult
+0,0,0,0,0,0,0,1,0,0,34.0,female,south asian,no,no,new zealand,no,1.0,18 and more,self,no,adult
+1,1,0,0,0,0,0,1,0,0,24.0,male,asian,no,no,sri lanka,no,3.0,18 and more,self,no,adult
+1,0,1,0,1,0,1,1,0,1,24.0,female,asian,no,no,new zealand,no,6.0,18 and more,self,no,adult
+1,0,0,0,1,0,1,1,0,1,42.0,male,asian,no,no,sri lanka,no,5.0,18 and more,self,no,adult
+0,0,1,0,0,0,0,1,1,1,26.0,female,others,no,no,india,no,4.0,18 and more,self,no,adult
+1,0,0,0,1,0,1,1,0,0,27.0,female,asian,no,no,sri lanka,no,4.0,18 and more,self,no,adult
+0,0,1,1,1,0,0,1,1,1,36.0,female,latino,no,yes,brazil,no,6.0,18 and more,self,no,adult
+1,1,1,1,1,0,0,1,1,1,36.0,female,latino,no,yes,brazil,no,8.0,18 and more,self,yes,adult
+1,0,1,1,0,0,1,1,0,1,55.0,male,hispanic,no,no,united states,no,6.0,18 and more,self,no,adult
+1,1,0,1,0,0,1,0,0,0,23.0,female,asian,no,no,new zealand,no,4.0,18 and more,self,no,adult
+0,0,1,1,1,0,0,0,0,1,22.0,female,asian,no,no,sri lanka,no,4.0,18 and more,self,no,adult
+1,0,0,0,0,0,0,1,0,0,42.0,female,middle eastern,no,no,france,no,2.0,18 and more,parent,no,adult
+1,0,0,1,0,0,0,1,0,0,54.0,male,white-european,no,no,canada,no,3.0,18 and more,self,no,adult
+1,1,0,0,0,0,1,1,1,1,43.0,female,black,no,no,united states,no,6.0,18 and more,self,no,adult
+1,1,1,1,1,1,0,1,1,1,43.0,female,black,no,no,united states,yes,9.0,18 and more,self,yes,adult
+0,0,1,1,1,0,0,1,1,1,29.0,male,middle eastern,no,no,iran,no,6.0,18 and more,self,no,adult
+1,0,1,0,1,0,0,1,0,1,29.0,male,middle eastern,no,no,iran,no,5.0,18 and more,self,no,adult
+1,0,1,0,1,0,1,0,0,0,37.0,male,white-european,no,no,australia,no,4.0,18 and more,self,no,adult
+1,0,0,0,1,0,1,0,0,1,39.0,female,white-european,no,no,australia,no,4.0,18 and more,self,no,adult
+1,1,1,1,1,0,0,0,0,0,18.0,female,asian,no,no,viet nam,no,5.0,18 and more,self,no,adult
+0,1,0,1,1,1,0,1,0,1,31.0,male,white-european,no,no,united states,no,6.0,18 and more,others,no,adult
+0,0,1,1,1,0,0,0,0,1,34.0,male,asian,no,no,new zealand,no,4.0,18 and more,self,no,adult
+0,0,1,1,1,0,1,0,0,1,22.0,male,white-european,no,no,united states,no,5.0,18 and more,self,no,adult
+1,0,1,1,1,1,1,0,1,0,28.0,male,south asian,no,no,india,no,7.0,18 and more,self,yes,adult
+1,0,0,0,0,0,1,1,0,1,38.0,male,others,no,yes,netherlands,no,4.0,18 and more,self,no,adult
+1,0,0,0,0,0,1,1,0,1,28.0,female,white-european,no,no,australia,no,4.0,18 and more,self,no,adult
+1,1,0,1,1,1,0,1,1,1,53.0,female,white-european,no,yes,united states,no,8.0,18 and more,self,yes,adult
+1,1,1,0,1,0,1,0,0,0,26.0,male,white-european,no,no,united kingdom,no,5.0,18 and more,self,no,adult
+1,1,1,1,1,1,0,1,1,1,37.0,male,white-european,no,no,united kingdom,no,9.0,18 and more,self,yes,adult
+1,1,0,1,0,0,0,1,0,1,42.0,male,latino,yes,yes,costa rica,no,5.0,18 and more,parent,no,adult
+1,0,0,0,0,0,0,1,0,1,43.0,male,hispanic,no,no,united states,no,3.0,18 and more,self,no,adult
+1,0,0,0,0,0,0,1,0,0,32.0,female,asian,no,no,united kingdom,no,2.0,18 and more,self,no,adult
+0,1,0,1,0,0,0,1,0,0,31.0,male,white-european,no,yes,united kingdom,no,3.0,18 and more,self,no,adult
+1,0,1,1,1,1,1,1,1,1,53.0,female,white-european,no,no,united states,no,9.0,18 and more,self,yes,adult
+1,1,1,1,1,1,1,1,1,1,28.0,male,white-european,no,no,united states,no,10.0,18 and more,self,yes,adult
+1,0,1,1,1,1,1,1,1,1,38.0,male,white-european,no,no,germany,no,9.0,18 and more,self,yes,adult
+1,1,1,0,1,1,0,1,1,0,31.0,male,white-european,no,no,united states,no,7.0,18 and more,self,yes,adult
+1,1,1,1,0,0,0,0,0,0,31.0,female,pasifika,no,yes,united states,no,4.0,18 and more,self,no,adult
+1,1,1,1,1,0,1,1,1,1,21.0,female,white-european,no,no,australia,no,9.0,18 and more,self,yes,adult
+1,1,0,1,1,0,0,0,1,1,25.0,female,white-european,no,no,united states,no,6.0,18 and more,self,no,adult
+1,1,0,1,1,0,0,1,1,1,25.0,female,white-european,no,no,united states,no,7.0,18 and more,self,yes,adult
+1,1,1,1,1,1,1,0,1,1,60.0,female,white-european,no,yes,united states,no,9.0,18 and more,relative,yes,adult
+1,0,1,1,0,0,0,0,0,0,39.0,male,white-european,no,yes,united states,no,3.0,18 and more,self,no,adult
+1,1,1,1,1,1,1,1,1,1,53.0,male,white-european,no,no,united states,no,10.0,18 and more,self,yes,adult
+1,1,1,1,1,1,1,1,1,1,20.0,male,middle eastern,no,yes,united states,no,10.0,18 and more,parent,yes,adult
+1,1,1,0,1,0,0,1,1,1,25.0,female,white-european,no,no,united states,yes,7.0,18 and more,self,yes,adult
+1,1,1,1,0,0,1,1,0,0,50.0,male,white-european,no,no,united kingdom,no,6.0,18 and more,self,no,adult
+1,0,0,1,1,1,1,1,1,1,28.0,female,white-european,no,no,united states,no,8.0,18 and more,self,yes,adult
+1,0,1,1,1,1,1,1,1,1,37.0,female,white-european,no,yes,united kingdom,no,9.0,18 and more,self,yes,adult
+0,0,0,1,0,1,0,1,1,1,30.0,male,asian,no,yes,india,no,5.0,18 and more,self,no,adult
+1,1,0,0,0,1,1,1,0,1,32.0,female,white-european,no,no,united kingdom,no,6.0,18 and more,self,no,adult
+1,0,1,1,0,0,0,0,0,1,34.0,female,white-european,no,no,united states,no,4.0,18 and more,self,no,adult
+1,1,1,1,0,0,0,0,0,1,42.0,male,white-european,no,no,united states,no,5.0,18 and more,self,no,adult
+1,1,0,0,1,1,1,1,1,1,22.0,female,black,no,no,spain,no,8.0,18 and more,self,yes,adult
+1,0,0,0,0,0,1,1,0,1,37.0,female,unknown,yes,no,united arab emirates,no,4.0,18 and more,self,no,adult
+1,1,0,0,0,0,0,1,0,1,39.0,male,white-european,no,yes,united states,no,4.0,18 and more,parent,no,adult
+1,1,0,1,1,0,1,1,0,1,18.0,male,white-european,no,no,bangladesh,no,7.0,18 and more,self,yes,adult
+1,0,0,1,0,0,0,0,0,0,54.0,female,white-european,no,yes,united states,no,2.0,18 and more,parent,no,adult
+1,1,0,0,0,0,0,1,0,0,42.0,male,white-european,no,no,united kingdom,no,3.0,18 and more,self,no,adult
+0,0,1,0,0,0,0,0,0,0,27.0,female,unknown,no,no,afghanistan,no,1.0,18 and more,self,no,adult
+1,1,1,1,1,0,0,1,0,0,22.0,male,white-european,no,no,united kingdom,no,6.0,18 and more,self,no,adult
+1,0,1,1,0,1,1,1,1,1,22.0,male,white-european,no,no,united kingdom,no,8.0,18 and more,self,yes,adult
+1,1,1,1,1,1,1,0,1,1,21.0,female,white-european,no,no,united kingdom,no,9.0,18 and more,self,yes,adult
+0,1,0,1,0,0,0,1,0,1,28.0,female,white-european,no,no,united states,no,4.0,18 and more,self,no,adult
+1,1,1,1,1,1,1,0,1,1,17.0,male,asian,yes,no,india,no,9.0,18 and more,relative,yes,adult
+0,1,0,0,0,0,0,0,0,0,28.0,male,white-european,no,no,united states,no,1.0,18 and more,self,no,adult
+0,0,0,1,1,0,1,1,0,1,21.0,male,latino,no,no,mexico,no,5.0,18 and more,self,no,adult
+1,1,1,1,1,1,1,1,1,1,31.0,female,asian,no,no,new zealand,no,10.0,18 and more,self,yes,adult
+1,0,0,0,0,0,1,1,0,0,20.0,male,south asian,no,no,new zealand,no,3.0,18 and more,self,no,adult
+1,0,0,1,0,0,0,0,0,0,21.0,male,white-european,no,no,united kingdom,no,2.0,18 and more,self,no,adult
+1,1,0,0,1,0,0,0,0,0,22.0,male,white-european,no,no,new zealand,no,3.0,18 and more,self,no,adult
+0,1,0,0,0,0,0,1,1,1,21.0,male,white-european,no,no,new zealand,no,4.0,18 and more,self,no,adult
+0,1,1,0,0,0,0,0,0,0,24.0,male,black,no,no,new zealand,no,2.0,18 and more,self,no,adult
+1,0,0,0,0,0,0,1,0,0,24.0,male,south asian,no,no,india,no,2.0,18 and more,self,no,adult
+1,0,0,0,1,1,1,1,0,1,25.0,male,asian,no,no,new zealand,no,6.0,18 and more,self,no,adult
+1,0,0,0,0,0,0,0,0,1,17.0,male,south asian,no,no,new zealand,no,2.0,18 and more,self,no,adult
+0,1,0,0,0,0,0,1,1,0,21.0,male,unknown,no,no,russia,no,3.0,18 and more,self,no,adult
+1,0,0,0,0,0,0,1,0,0,23.0,male,pasifika,no,no,new zealand,no,2.0,18 and more,self,no,adult
+1,0,0,1,1,0,1,1,0,0,21.0,male,asian,no,no,new zealand,no,5.0,18 and more,self,no,adult
+1,0,0,0,1,0,1,1,1,1,22.0,male,others,no,no,new zealand,no,6.0,18 and more,self,no,adult
+1,0,0,0,1,0,0,1,0,1,24.0,female,asian,no,no,india,no,4.0,18 and more,self,no,adult
+0,0,1,0,1,1,0,0,1,1,34.0,male,others,no,no,new zealand,no,5.0,18 and more,self,no,adult
+1,0,1,0,1,0,1,1,0,1,30.0,male,asian,no,no,new zealand,no,6.0,18 and more,self,no,adult
+1,0,0,0,0,0,1,1,0,1,29.0,female,asian,no,no,india,no,4.0,18 and more,self,no,adult
+1,0,0,1,1,0,1,1,0,0,20.0,male,pasifika,no,no,new zealand,no,5.0,18 and more,self,no,adult
+0,0,1,1,0,1,0,1,1,1,23.0,male,white-european,no,no,new zealand,no,6.0,18 and more,self,no,adult
+0,0,0,0,0,0,0,1,0,1,26.0,male,asian,no,no,india,no,2.0,18 and more,self,no,adult
+1,0,0,1,1,1,1,1,1,1,20.0,male,south asian,no,no,new zealand,no,8.0,18 and more,self,yes,adult
+1,0,0,0,0,0,1,1,0,0,41.0,male,asian,no,no,new zealand,no,3.0,18 and more,self,no,adult
+1,0,0,1,0,0,1,1,0,0,24.0,male,asian,no,no,india,no,4.0,18 and more,self,no,adult
+0,0,0,1,0,0,0,1,0,0,35.0,male,asian,no,no,india,no,2.0,18 and more,self,no,adult
+0,0,0,1,0,0,1,0,0,0,23.0,male,south asian,no,no,india,no,2.0,18 and more,self,no,adult
+1,0,1,0,0,0,1,0,0,0,36.0,male,white-european,no,no,new zealand,no,3.0,18 and more,self,no,adult
+1,1,0,0,1,0,0,1,0,0,33.0,male,turkish,no,no,armenia,no,4.0,18 and more,self,no,adult
+1,0,0,0,0,1,0,1,1,1,24.0,male,south asian,no,no,india,no,5.0,18 and more,self,no,adult
+0,1,1,0,1,0,0,1,0,0,25.0,male,unknown,no,no,new zealand,no,4.0,18 and more,self,no,adult
+1,0,0,0,1,1,0,1,0,1,25.0,male,asian,no,no,india,no,5.0,18 and more,self,no,adult
+1,0,0,0,0,0,1,1,1,1,25.0,male,asian,no,no,india,no,5.0,18 and more,self,no,adult
+0,0,0,0,0,0,1,1,0,1,24.0,male,asian,no,no,india,no,3.0,18 and more,self,no,adult
+1,0,1,0,1,0,0,1,0,1,27.0,female,south asian,no,no,india,no,5.0,18 and more,self,no,adult
+1,0,0,0,0,0,1,1,0,0,26.0,male,asian,no,no,india,no,3.0,18 and more,self,no,adult
+0,0,0,0,0,0,0,0,0,0,26.0,male,others,no,no,new zealand,no,0.0,18 and more,self,no,adult
+1,0,0,0,1,0,0,1,1,0,23.0,female,asian,no,no,india,no,4.0,18 and more,self,no,adult
+1,1,1,0,1,0,1,1,0,1,30.0,male,asian,no,no,new zealand,no,7.0,18 and more,self,yes,adult
+1,0,0,1,0,0,0,0,1,0,25.0,male,asian,no,no,iceland,no,3.0,18 and more,self,no,adult
+1,0,0,0,0,0,0,1,0,1,23.0,male,pasifika,no,no,new zealand,no,3.0,18 and more,self,no,adult
+1,0,1,1,1,0,0,1,0,0,34.0,female,white-european,no,no,united states,no,5.0,18 and more,self,no,adult
+1,0,0,1,1,0,1,1,0,1,20.0,female,asian,no,no,new zealand,no,6.0,18 and more,self,no,adult
+1,0,1,1,1,1,0,0,1,1,22.0,female,unknown,no,yes,russia,no,7.0,18 and more,self,yes,adult
+1,1,1,1,0,0,0,1,1,1,33.0,female,black,no,yes,france,no,7.0,18 and more,parent,yes,adult
+1,1,1,1,1,1,1,1,1,1,46.0,male,white-european,no,no,netherlands,no,10.0,18 and more,self,yes,adult
+1,1,0,0,0,0,0,0,0,0,17.0,male,white-european,no,no,united kingdom,no,2.0,18 and more,others,no,adult
+1,1,1,0,0,0,0,1,0,0,45.0,female,white-european,no,yes,united states,no,4.0,18 and more,self,no,adult
+0,1,1,1,0,0,0,0,1,0,26.0,male,asian,no,no,india,no,4.0,18 and more,others,no,adult
+1,0,0,0,1,0,0,0,1,0,30.0,male,unknown,no,no,jordan,no,3.0,18 and more,self,no,adult
+1,1,0,0,0,0,0,0,0,0,32.0,female,unknown,no,yes,jordan,no,2.0,18 and more,self,no,adult
+1,0,1,1,1,1,1,1,1,1,38.0,female,white-european,no,no,united kingdom,no,9.0,18 and more,self,yes,adult
+0,1,1,0,1,0,0,0,0,0,26.0,male,hispanic,yes,no,nicaragua,no,3.0,18 and more,self,no,adult
+1,0,0,0,0,0,0,0,0,0,29.0,female,hispanic,no,yes,united states,no,1.0,18 and more,self,no,adult
+1,1,1,1,1,0,0,1,1,1,33.0,male,white-european,no,no,australia,no,8.0,18 and more,self,yes,adult
+0,1,1,0,1,1,1,0,1,1,32.0,female,black,no,no,france,no,7.0,18 and more,parent,yes,adult
+1,1,1,1,1,1,1,1,1,1,44.0,female,white-european,no,no,united states,no,10.0,18 and more,self,yes,adult
+0,1,0,0,0,0,1,0,0,1,47.0,female,white-european,yes,no,united kingdom,no,3.0,18 and more,self,no,adult
+0,0,0,1,1,1,1,0,1,1,32.0,female,unknown,no,no,hong kong,no,6.0,18 and more,self,no,adult
+0,0,0,0,0,0,0,0,0,0,40.0,male,white-european,no,no,new zealand,no,0.0,18 and more,self,no,adult
+1,0,0,1,1,0,0,1,0,1,40.0,male,white-european,no,no,united states,no,5.0,18 and more,self,no,adult
+0,0,0,0,0,0,0,0,0,0,44.0,female,white-european,no,no,new zealand,no,0.0,18 and more,self,no,adult
+1,1,1,0,1,1,1,0,1,1,56.0,male,white-european,yes,no,united kingdom,no,8.0,18 and more,self,yes,adult
+1,1,1,0,1,1,1,0,1,1,23.0,female,white-european,no,no,ireland,no,8.0,18 and more,self,yes,adult
+1,1,0,1,1,0,0,1,1,1,32.0,female,black,no,no,canada,no,7.0,18 and more,self,yes,adult
+0,1,1,1,0,0,0,1,0,1,27.0,male,white-european,no,yes,united kingdom,no,5.0,18 and more,self,no,adult
+1,0,0,0,1,0,1,0,0,1,28.0,female,white-european,no,yes,united kingdom,no,4.0,18 and more,self,no,adult
+0,0,0,0,0,0,0,0,0,0,40.0,female,middle eastern,no,no,afghanistan,no,0.0,18 and more,parent,no,adult
+1,0,1,1,1,1,0,0,1,1,45.0,female,white-european,no,no,canada,no,7.0,18 and more,self,yes,adult
+1,1,1,1,1,1,0,0,1,1,19.0,female,white-european,yes,no,united kingdom,no,8.0,18 and more,parent,yes,adult
+1,1,1,1,0,1,0,1,1,1,55.0,male,white-european,no,yes,united states,no,8.0,18 and more,others,yes,adult
+1,0,0,1,0,0,1,1,0,1,27.0,female,white-european,yes,no,australia,no,5.0,18 and more,self,no,adult
+1,1,1,1,1,1,1,0,1,1,19.0,female,white-european,yes,no,united kingdom,no,9.0,18 and more,self,yes,adult
+1,0,0,1,0,0,0,1,0,0,29.0,male,white-european,no,no,ireland,no,3.0,18 and more,self,no,adult
+1,1,1,1,1,1,1,1,1,1,33.0,female,white-european,yes,no,united kingdom,no,10.0,18 and more,self,yes,adult
+0,0,1,1,1,1,1,1,0,0,48.0,female,white-european,no,no,netherlands,no,6.0,18 and more,self,no,adult
+0,0,0,0,0,0,0,1,1,0,37.0,female,others,no,no,united kingdom,no,2.0,18 and more,self,no,adult
+1,1,1,1,1,0,0,0,1,0,30.0,male,asian,no,no,afghanistan,no,6.0,18 and more,self,no,adult
+1,1,0,1,0,0,0,0,0,1,37.0,female,white-european,no,no,united kingdom,no,4.0,18 and more,self,no,adult
+1,0,0,1,1,0,1,1,1,1,28.0,female,unknown,no,no,saudi arabia,no,7.0,18 and more,self,yes,adult
+1,0,0,1,1,1,1,1,1,1,20.0,female,white-european,no,no,austria,no,8.0,18 and more,self,yes,adult
+1,1,1,1,1,1,0,0,1,1,25.0,female,others,no,no,united states,no,8.0,18 and more,self,yes,adult
+1,1,1,1,1,1,0,1,0,0,58.0,female,middle eastern,no,no,united kingdom,no,7.0,18 and more,self,yes,adult
+1,0,1,0,0,0,0,0,0,0,36.0,female,white-european,no,no,united states,no,2.0,18 and more,self,no,adult
+0,0,1,1,1,0,0,1,0,0,36.0,male,white-european,yes,no,united states,no,4.0,18 and more,self,no,adult
+1,0,1,0,1,1,1,1,1,0,19.0,male,hispanic,no,no,united states,no,7.0,18 and more,self,yes,adult
+1,0,1,1,1,1,0,1,1,0,19.0,male,hispanic,no,no,united states,yes,7.0,18 and more,self,yes,adult
+1,0,0,1,1,0,0,1,0,1,22.0,female,white-european,no,no,new zealand,no,5.0,18 and more,self,no,adult
+1,1,0,0,0,0,0,1,0,0,20.0,male,unknown,no,no,united arab emirates,no,3.0,18 and more,self,no,adult
+0,1,0,0,0,0,1,1,0,1,24.0,female,middle eastern,no,no,united arab emirates,no,4.0,18 and more,self,no,adult
+0,0,0,1,1,0,0,1,1,0,19.0,male,middle eastern,no,no,united arab emirates,no,4.0,18 and more,self,no,adult
+1,1,1,0,1,0,0,1,0,1,21.0,male,others,no,no,united arab emirates,no,6.0,18 and more,self,no,adult
+0,0,0,0,0,0,0,0,0,0,20.0,male,middle eastern,no,no,united arab emirates,no,0.0,18 and more,self,no,adult
+1,1,0,0,0,0,0,0,0,0,18.0,female,middle eastern,no,no,united arab emirates,no,2.0,18 and more,self,no,adult
+0,1,1,0,0,0,0,1,0,1,23.0,female,middle eastern,no,no,united arab emirates,no,4.0,18 and more,self,no,adult
+1,1,1,0,1,1,1,1,0,1,22.0,male,middle eastern,no,no,united arab emirates,no,8.0,18 and more,self,yes,adult
+1,1,0,1,1,0,0,0,0,0,18.0,female,south asian,no,yes,bangladesh,no,4.0,18 and more,self,no,adult
+1,0,0,0,0,0,0,0,0,1,37.0,female,unknown,no,no,united arab emirates,no,2.0,18 and more,self,no,adult
+1,1,1,0,1,0,0,1,0,0,18.0,male,middle eastern,no,no,united arab emirates,no,5.0,18 and more,relative,no,adult
+1,1,1,0,1,0,0,1,0,0,18.0,male,middle eastern,no,no,united arab emirates,no,5.0,18 and more,relative,no,adult
+0,0,0,0,1,0,0,1,0,0,18.0,male,middle eastern,no,no,united arab emirates,no,2.0,18 and more,relative,no,adult
+1,1,1,0,0,0,0,1,0,0,18.0,male,middle eastern,no,no,united arab emirates,no,4.0,18 and more,relative,no,adult
+0,1,0,0,0,0,1,1,0,0,18.0,male,middle eastern,no,no,united arab emirates,no,3.0,18 and more,relative,no,adult
+1,1,1,0,0,0,0,1,0,0,18.0,male,middle eastern,no,no,united arab emirates,no,4.0,18 and more,relative,no,adult
+1,1,1,1,1,1,1,1,1,1,19.0,male,white-european,no,no,austria,no,10.0,18 and more,self,yes,adult
+1,0,0,1,1,1,1,0,1,1,55.0,male,white-european,no,no,united kingdom,no,7.0,18 and more,self,yes,adult
+1,0,0,0,0,1,1,0,1,1,32.0,female,asian,no,no,canada,no,5.0,18 and more,parent,no,adult
+1,1,0,1,0,0,1,1,0,0,50.0,male,white-european,yes,no,united kingdom,no,5.0,18 and more,self,no,adult
+1,1,1,1,0,0,1,1,0,0,40.0,male,white-european,no,no,united kingdom,no,6.0,18 and more,self,no,adult
+1,0,0,1,1,1,0,0,0,0,47.0,male,middle eastern,no,no,jordan,no,4.0,18 and more,self,no,adult
+1,1,0,0,0,0,0,0,0,1,20.0,male,unknown,no,no,jordan,no,3.0,18 and more,self,no,adult
+1,0,1,0,0,0,1,1,0,0,22.0,female,unknown,no,no,jordan,no,4.0,18 and more,self,no,adult
+1,0,0,0,0,0,1,0,0,0,21.0,female,unknown,no,no,jordan,no,2.0,18 and more,self,no,adult
+1,0,1,1,0,0,1,1,1,0,21.0,female,unknown,no,no,jordan,no,6.0,18 and more,self,no,adult
+1,1,1,1,1,0,0,1,0,0,19.0,male,unknown,no,no,jordan,no,6.0,18 and more,self,no,adult
+1,0,1,1,0,0,0,0,0,0,21.0,female,unknown,no,no,jordan,no,3.0,18 and more,self,no,adult
+1,0,0,1,0,0,0,0,0,0,21.0,male,unknown,no,no,jordan,no,2.0,18 and more,self,no,adult
+0,1,0,1,0,1,0,1,0,1,23.0,female,unknown,no,no,jordan,no,5.0,18 and more,self,no,adult
+1,0,0,0,0,0,0,0,0,0,21.0,male,unknown,no,no,jordan,no,1.0,18 and more,self,no,adult
+1,0,0,0,1,0,1,1,1,0,21.0,male,unknown,no,no,jordan,no,5.0,18 and more,self,no,adult
+0,0,0,0,0,0,0,1,0,0,23.0,male,unknown,no,no,jordan,no,1.0,18 and more,self,no,adult
+1,0,1,1,0,1,1,1,1,1,20.0,female,unknown,no,no,jordan,no,8.0,18 and more,self,yes,adult
+1,1,1,0,0,0,0,1,0,1,21.0,female,unknown,no,no,jordan,no,5.0,18 and more,self,no,adult
+1,1,1,0,1,0,1,1,1,1,20.0,male,unknown,no,no,argentina,no,8.0,18 and more,self,yes,adult
+1,1,0,0,0,0,1,1,0,0,19.0,male,unknown,no,no,jordan,no,4.0,18 and more,self,no,adult
+0,1,0,0,0,0,0,1,0,0,21.0,male,unknown,no,no,jordan,no,2.0,18 and more,self,no,adult
+1,0,1,0,0,0,1,0,0,0,26.0,male,unknown,no,yes,jordan,no,3.0,18 and more,self,no,adult
+0,0,0,1,0,0,0,1,0,0,21.0,male,unknown,no,no,jordan,no,2.0,18 and more,self,no,adult
+0,0,0,0,1,0,0,1,0,0,19.0,male,unknown,no,no,japan,no,2.0,18 and more,self,no,adult
+1,0,0,1,0,0,0,1,0,1,22.0,male,middle eastern,no,no,united arab emirates,no,4.0,18 and more,parent,no,adult
+1,0,0,0,0,0,0,1,0,0,19.0,female,middle eastern,no,no,united arab emirates,no,2.0,18 and more,self,no,adult
+1,0,0,1,0,0,1,0,0,1,22.0,male,middle eastern,no,no,united arab emirates,no,4.0,18 and more,self,no,adult
+0,0,1,0,0,0,0,0,0,1,20.0,male,middle eastern,no,no,united arab emirates,no,2.0,18 and more,self,no,adult
+1,0,1,0,1,0,0,1,0,0,23.0,male,middle eastern,no,no,united arab emirates,no,4.0,18 and more,self,no,adult
+0,0,0,0,0,1,0,1,0,0,19.0,female,unknown,no,no,ukraine,no,2.0,18 and more,self,no,adult
+0,0,0,0,1,0,0,1,0,1,20.0,male,middle eastern,no,no,united arab emirates,no,3.0,18 and more,parent,no,adult
+0,1,0,1,0,0,0,0,0,0,24.0,male,middle eastern,no,no,united arab emirates,no,2.0,18 and more,self,no,adult
+0,1,1,0,0,0,0,1,0,1,19.0,male,middle eastern,no,no,united arab emirates,no,4.0,18 and more,self,no,adult
+1,0,0,0,0,1,0,1,0,1,20.0,male,unknown,no,no,united arab emirates,no,4.0,18 and more,self,no,adult
+1,0,1,0,1,0,0,1,0,1,23.0,male,middle eastern,no,yes,united arab emirates,no,5.0,18 and more,self,no,adult
+0,0,1,1,0,0,1,0,0,1,20.0,male,others,no,no,russia,no,4.0,18 and more,self,no,adult
+1,0,1,0,1,0,0,1,0,1,20.0,male,middle eastern,no,no,united arab emirates,no,5.0,18 and more,self,no,adult
+0,0,0,0,0,0,0,1,1,0,20.0,male,unknown,yes,no,united arab emirates,no,2.0,18 and more,self,no,adult
+1,0,1,0,0,0,0,0,0,1,20.0,female,unknown,no,no,united arab emirates,no,3.0,18 and more,self,no,adult
+1,0,0,1,1,0,0,1,0,1,21.0,female,asian,no,no,afghanistan,no,5.0,18 and more,self,no,adult
+0,1,0,0,0,0,0,0,0,1,19.0,male,unknown,no,no,kazakhstan,no,2.0,18 and more,self,no,adult
+1,0,0,0,0,0,0,1,0,1,20.0,female,middle eastern,no,no,united arab emirates,no,3.0,18 and more,self,no,adult
+1,0,0,1,1,0,1,0,0,1,20.0,male,middle eastern,no,no,saudi arabia,no,5.0,18 and more,self,no,adult
+1,0,0,0,0,1,0,0,1,0,25.0,male,middle eastern,yes,yes,armenia,yes,3.0,18 and more,relative,no,adult
+1,0,0,0,0,0,0,1,0,0,20.0,female,middle eastern,no,no,united arab emirates,no,2.0,18 and more,self,no,adult
+1,0,0,0,0,1,1,1,0,1,22.0,male,middle eastern,no,no,americansamoa,no,5.0,18 and more,self,no,adult
+1,0,0,0,0,0,0,1,0,0,20.0,female,unknown,no,no,united arab emirates,no,2.0,18 and more,self,no,adult
+0,1,0,0,1,1,0,0,0,0,20.0,male,unknown,no,no,united arab emirates,no,3.0,18 and more,self,no,adult
+0,0,0,1,0,0,1,0,0,0,20.0,female,unknown,no,no,jordan,no,2.0,18 and more,self,no,adult
+1,0,0,0,0,0,0,1,0,0,23.0,female,unknown,no,no,jordan,no,2.0,18 and more,self,no,adult
+1,1,1,1,1,0,1,0,1,1,21.0,female,unknown,no,no,jordan,no,8.0,18 and more,self,yes,adult
+1,0,0,0,0,0,1,1,0,1,22.0,male,unknown,no,no,jordan,no,4.0,18 and more,self,no,adult
+1,1,0,0,0,0,0,1,0,0,21.0,female,unknown,no,no,jordan,no,3.0,18 and more,self,no,adult
+1,0,1,0,0,0,0,0,0,1,20.0,female,unknown,no,no,jordan,no,3.0,18 and more,self,no,adult
+1,0,0,1,0,0,0,0,0,0,22.0,female,unknown,no,no,jordan,no,2.0,18 and more,self,no,adult
+1,0,1,1,1,0,1,1,0,0,21.0,female,unknown,yes,no,jordan,no,6.0,18 and more,self,no,adult
+1,1,0,0,1,0,0,1,0,0,20.0,female,unknown,no,no,jordan,no,4.0,18 and more,self,no,adult
+0,1,0,0,0,0,0,1,0,0,20.0,female,middle eastern,no,no,united arab emirates,no,2.0,18 and more,self,no,adult
+1,0,0,0,1,0,0,1,0,0,21.0,male,unknown,no,no,jordan,no,3.0,18 and more,self,no,adult
+1,0,1,1,1,0,0,0,1,1,21.0,male,middle eastern,no,no,united arab emirates,no,6.0,18 and more,self,no,adult
+0,1,0,0,0,1,0,1,0,1,23.0,female,middle eastern,no,no,united arab emirates,no,4.0,18 and more,self,no,adult
+1,1,0,0,0,0,0,1,0,0,21.0,female,turkish,no,no,united arab emirates,no,3.0,18 and more,self,no,adult
+1,0,0,0,1,1,0,1,0,1,22.0,female,black,no,no,united arab emirates,no,5.0,18 and more,self,no,adult
+0,1,1,1,0,1,0,1,0,0,19.0,female,unknown,no,no,united arab emirates,no,5.0,18 and more,self,no,adult
+1,1,1,0,1,0,0,0,0,0,20.0,female,asian,no,no,united arab emirates,no,4.0,18 and more,self,no,adult
+0,1,0,0,0,0,0,1,0,1,21.0,female,others,no,no,united arab emirates,no,3.0,18 and more,self,no,adult
+0,1,1,0,0,0,0,1,0,0,26.0,male,middle eastern,no,no,united arab emirates,no,3.0,18 and more,self,no,adult
+1,0,0,0,0,0,0,0,0,0,19.0,female,unknown,no,no,kazakhstan,no,1.0,18 and more,self,no,adult
+1,0,0,1,0,0,1,1,0,1,20.0,female,unknown,no,no,united arab emirates,no,5.0,18 and more,self,no,adult
+1,0,0,0,0,0,0,1,0,1,26.0,female,unknown,no,no,united arab emirates,no,3.0,18 and more,self,no,adult
+1,0,0,1,0,0,1,0,0,1,23.0,female,black,no,no,united arab emirates,no,4.0,18 and more,self,no,adult
+1,0,0,1,0,0,1,0,0,1,28.0,female,unknown,no,no,united arab emirates,no,4.0,18 and more,self,no,adult
+0,1,0,1,1,0,0,0,0,0,19.0,female,middle eastern,no,no,united arab emirates,no,3.0,18 and more,self,no,adult
+1,0,0,0,0,0,1,1,0,0,20.0,female,middle eastern,no,no,united arab emirates,no,3.0,18 and more,self,no,adult
+0,1,0,0,1,0,1,1,0,1,19.0,female,black,no,no,united arab emirates,no,5.0,18 and more,self,no,adult
+1,0,1,1,1,1,1,1,1,0,24.0,male,asian,no,no,india,no,8.0,18 and more,self,yes,adult
+1,0,0,1,1,0,0,1,0,1,19.0,female,south asian,no,no,united arab emirates,no,5.0,18 and more,self,no,adult
+1,1,0,0,0,0,0,0,0,0,22.0,female,middle eastern,no,no,united arab emirates,no,2.0,18 and more,self,no,adult
+1,1,0,1,0,0,0,0,0,1,20.0,female,middle eastern,no,no,united arab emirates,no,4.0,18 and more,self,no,adult
+0,1,0,1,0,0,0,1,0,0,21.0,male,middle eastern,no,no,united arab emirates,no,3.0,18 and more,self,no,adult
+0,0,1,1,1,0,0,1,0,0,24.0,female,others,no,no,united arab emirates,no,4.0,18 and more,self,no,adult
+0,0,1,1,1,0,0,0,0,1,18.0,female,middle eastern,no,no,united arab emirates,no,4.0,18 and more,self,no,adult
+1,0,1,1,1,0,1,1,0,1,19.0,female,middle eastern,no,no,united arab emirates,no,7.0,18 and more,self,yes,adult
+1,0,1,0,0,0,0,0,0,0,19.0,female,middle eastern,no,no,united arab emirates,no,2.0,18 and more,self,no,adult
+1,0,0,0,0,0,1,1,0,1,31.0,male,middle eastern,yes,no,united arab emirates,no,4.0,18 and more,self,no,adult
+1,1,0,1,0,0,1,1,0,0,19.0,male,middle eastern,no,no,united arab emirates,no,5.0,18 and more,self,no,adult
+1,0,0,0,0,0,1,0,1,1,21.0,female,middle eastern,no,no,united arab emirates,no,4.0,18 and more,self,no,adult
+1,0,0,0,1,0,1,0,0,1,20.0,male,middle eastern,no,no,united arab emirates,no,4.0,18 and more,self,no,adult
+1,0,1,0,1,0,1,1,0,1,26.0,female,middle eastern,no,no,united arab emirates,no,6.0,18 and more,self,no,adult
+0,0,0,0,0,0,1,0,0,0,27.0,male,middle eastern,no,no,afghanistan,no,1.0,18 and more,self,no,adult
+1,0,1,0,0,1,0,1,0,0,23.0,female,middle eastern,no,no,united arab emirates,no,4.0,18 and more,self,no,adult
+0,1,0,1,0,0,0,0,0,0,29.0,female,unknown,no,no,united arab emirates,no,2.0,18 and more,self,no,adult
+1,1,1,1,0,0,1,0,0,0,23.0,male,middle eastern,no,no,united arab emirates,no,5.0,18 and more,self,no,adult
+1,0,0,0,0,0,1,1,0,1,23.0,male,turkish,no,no,united arab emirates,no,4.0,18 and more,others,no,adult
+1,0,1,1,1,1,0,1,1,1,24.0,male,asian,no,yes,india,no,8.0,18 and more,self,yes,adult
+1,0,0,1,0,0,1,1,0,0,21.0,male,unknown,no,no,jordan,no,4.0,18 and more,self,no,adult
+0,0,0,0,1,0,1,0,0,0,20.0,female,unknown,no,no,brazil,yes,2.0,18 and more,self,no,adult
+1,0,1,0,1,0,1,1,1,0,20.0,male,unknown,no,no,jordan,no,6.0,18 and more,self,no,adult
+1,1,1,1,1,1,1,0,1,1,32.0,female,black,no,no,france,no,9.0,18 and more,parent,yes,adult
+1,1,1,1,1,1,1,1,1,1,61.0,male,white-european,yes,yes,uruguay,no,10.0,18 and more,self,yes,adult
+1,0,0,1,1,0,0,0,0,0,19.0,male,unknown,no,no,jordan,no,3.0,18 and more,self,no,adult
+1,1,1,1,1,1,0,1,1,0,35.0,female,white-european,no,no,italy,no,8.0,18 and more,self,yes,adult
+1,0,0,0,0,1,0,0,0,1,34.0,female,white-european,no,no,ukraine,yes,3.0,18 and more,self,no,adult
+0,0,1,1,0,0,0,0,0,0,23.0,female,middle eastern,no,no,united arab emirates,yes,2.0,18 and more,self,no,adult
+1,1,1,1,0,0,0,0,0,1,19.0,female,white-european,no,no,serbia,no,5.0,18 and more,self,no,adult
+1,1,0,0,1,1,0,1,0,1,36.0,female,others,no,no,philippines,no,6.0,18 and more,parent,no,adult
+1,1,0,0,0,0,0,1,0,1,21.0,female,unknown,no,no,jordan,no,4.0,18 and more,self,no,adult
+0,1,0,0,0,0,0,1,0,0,23.0,male,white-european,no,no,united states,no,2.0,18 and more,self,no,adult
+1,0,1,1,1,0,1,0,0,1,17.0,male,black,no,no,united states,no,6.0,18 and more,relative,no,adult
+1,0,1,0,0,0,0,0,0,0,22.0,male,white-european,no,no,portugal,no,2.0,18 and more,self,no,adult
+0,1,1,1,1,0,1,0,0,1,33.0,male,white-european,no,yes,australia,no,6.0,18 and more,relative,no,adult
+1,1,1,1,1,0,0,1,0,1,23.0,female,asian,no,no,malaysia,no,7.0,18 and more,self,yes,adult
+0,1,1,1,1,1,0,1,0,1,35.0,female,white-european,no,yes,sweden,no,7.0,18 and more,self,yes,adult
+1,0,0,0,0,0,0,1,0,1,21.0,male,white-european,no,yes,australia,no,3.0,18 and more,self,no,adult
+1,0,0,1,1,0,1,1,1,1,20.0,female,white-european,no,no,austria,no,7.0,18 and more,self,yes,adult
+1,0,0,0,0,0,0,1,0,0,29.0,male,white-european,no,no,netherlands,no,2.0,18 and more,health care professional,no,adult
+1,1,1,1,1,1,1,0,1,1,59.0,male,white-european,no,no,united states,no,9.0,18 and more,self,yes,adult
+1,1,1,0,0,0,0,1,0,1,18.0,female,white-european,no,no,netherlands,no,5.0,18 and more,self,no,adult
+1,1,0,0,0,0,0,1,0,0,19.0,female,middle eastern,no,no,united arab emirates,no,3.0,18 and more,self,no,adult
+0,0,1,1,0,0,0,1,0,0,24.0,male,middle eastern,no,no,united arab emirates,no,3.0,18 and more,self,no,adult
+1,1,1,1,1,0,0,1,1,0,36.0,female,white-european,no,no,italy,no,7.0,18 and more,self,yes,adult
+0,0,1,1,1,0,0,0,0,1,19.0,female,unknown,yes,no,jordan,no,4.0,18 and more,self,no,adult
+1,1,0,0,0,0,1,0,0,0,17.0,female,black,no,no,united arab emirates,no,3.0,18 and more,self,no,adult
+1,0,0,0,0,0,0,1,0,1,52.0,male,white-european,yes,no,united kingdom,no,3.0,18 and more,self,no,adult
+1,1,0,1,1,0,0,0,0,0,18.0,male,middle eastern,no,no,united arab emirates,no,4.0,18 and more,self,no,adult
+0,0,0,0,0,0,1,0,0,0,30.0,male,asian,no,no,philippines,no,1.0,18 and more,self,no,adult
+0,1,1,1,1,1,0,1,1,1,18.0,male,middle eastern,yes,no,new zealand,no,8.0,18 and more,self,yes,adult
+1,1,1,1,1,0,0,1,0,0,27.0,male,latino,no,no,ecuador,no,6.0,18 and more,self,no,adult
+0,0,0,1,0,0,0,0,0,0,52.0,female,white-european,no,no,united kingdom,no,1.0,18 and more,self,no,adult
+0,0,0,0,0,0,0,1,0,0,45.0,female,asian,no,no,viet nam,no,1.0,18 and more,self,no,adult
+0,1,1,1,1,1,0,0,1,0,25.0,female,others,no,no,afghanistan,no,6.0,18 and more,health care professional,no,adult
+0,0,0,1,0,0,1,0,0,1,29.0,female,white-european,no,no,united kingdom,no,3.0,18 and more,self,no,adult
+1,1,0,1,1,1,1,1,0,1,29.0,female,white-european,yes,no,united states,no,8.0,18 and more,self,yes,adult
+1,0,0,0,0,1,0,0,0,1,18.0,male,white-european,no,yes,netherlands,no,3.0,18 and more,self,no,adult
+0,0,1,1,0,1,1,1,1,1,18.0,male,white-european,no,no,netherlands,no,7.0,18 and more,relative,yes,adult
+1,0,1,1,0,1,0,0,0,1,17.0,male,white-european,no,no,netherlands,no,5.0,18 and more,relative,no,adult
+1,1,1,1,1,1,1,1,1,1,27.0,female,asian,no,no,united states,no,10.0,18 and more,self,yes,adult
+0,0,0,0,0,0,0,1,0,0,22.0,female,asian,yes,no,malaysia,no,1.0,18 and more,self,no,adult
+0,0,0,0,0,1,0,1,1,0,23.0,male,asian,no,no,india,no,3.0,18 and more,self,no,adult
+1,1,1,1,1,0,1,1,0,0,25.0,male,latino,no,no,united kingdom,no,7.0,18 and more,self,yes,adult
+1,0,1,1,1,0,0,0,0,0,23.0,female,south asian,no,no,new zealand,no,4.0,18 and more,self,no,adult
+1,0,0,0,0,0,0,1,0,1,29.0,male,asian,no,no,india,no,3.0,18 and more,self,no,adult
+1,0,0,1,1,0,1,0,0,0,27.0,female,asian,no,no,sri lanka,no,4.0,18 and more,self,no,adult
+1,0,0,0,0,1,0,1,0,0,27.0,female,asian,no,no,india,no,3.0,18 and more,self,no,adult
+0,0,0,0,0,0,0,0,0,0,43.0,female,south asian,no,no,india,no,0.0,18 and more,parent,no,adult
+1,0,0,0,0,0,0,1,0,0,26.0,female,asian,no,no,india,no,2.0,18 and more,self,no,adult
+1,0,0,0,1,0,0,1,0,1,30.0,female,asian,no,no,india,no,4.0,18 and more,self,no,adult
+0,0,0,0,0,0,0,1,0,0,23.0,male,white-european,no,no,india,no,1.0,18 and more,self,no,adult
+1,0,0,0,1,0,1,1,0,0,29.0,female,asian,no,no,sri lanka,no,4.0,18 and more,self,no,adult
+0,0,0,0,0,0,0,1,0,1,37.0,male,white-european,no,no,united kingdom,no,2.0,18 and more,parent,no,adult
+0,0,0,0,0,0,1,0,0,1,28.0,female,white-european,no,no,united kingdom,no,2.0,18 and more,self,no,adult
+1,1,1,1,0,0,1,1,0,0,25.0,male,south asian,no,no,united states,no,6.0,18 and more,self,no,adult
+1,0,1,1,0,0,1,1,0,0,25.0,male,others,no,no,india,no,5.0,18 and more,self,no,adult
+0,1,0,0,0,0,0,1,1,0,21.0,male,unknown,no,no,jordan,no,3.0,18 and more,self,no,adult
+1,1,1,1,1,1,1,0,1,1,43.0,male,white-european,no,no,united kingdom,no,9.0,18 and more,self,yes,adult
+1,1,0,1,1,1,0,0,1,1,30.0,female,white-european,no,no,united states,no,7.0,18 and more,self,yes,adult
+0,1,1,0,0,0,1,0,0,1,18.0,male,black,no,no,niger,no,4.0,18 and more,self,no,adult
+1,1,1,1,0,0,0,1,0,0,18.0,female,white-european,no,no,romania,no,5.0,18 and more,self,no,adult
+1,1,1,1,0,0,1,1,1,0,30.0,male,others,no,no,canada,no,7.0,18 and more,self,yes,adult
+0,0,0,0,0,0,0,0,0,0,31.0,female,white-european,no,no,germany,no,0.0,18 and more,self,no,adult
+1,0,0,0,1,0,1,1,0,1,33.0,male,latino,no,no,mexico,no,5.0,18 and more,self,no,adult
+1,1,1,1,1,1,1,1,1,1,33.0,male,latino,no,no,mexico,no,10.0,18 and more,self,yes,adult
+1,1,1,1,0,0,1,0,0,1,26.0,male,white-european,no,no,united kingdom,no,6.0,18 and more,self,no,adult
+1,0,1,1,0,0,0,0,0,0,61.0,female,white-european,no,no,united states,no,3.0,18 and more,self,no,adult
+0,0,0,1,0,0,0,1,0,1,46.0,male,others,no,no,viet nam,no,3.0,18 and more,self,no,adult
+0,1,1,1,1,1,1,0,1,1,33.0,male,asian,no,no,india,no,8.0,18 and more,self,yes,adult
+1,1,1,1,1,0,1,1,0,1,38.0,female,black,no,no,canada,no,8.0,18 and more,self,yes,adult
+1,1,0,0,0,0,0,1,0,0,44.0,male,black,no,no,france,no,3.0,18 and more,parent,no,adult
+0,1,1,1,1,0,0,0,1,0,48.0,female,black,no,yes,france,no,5.0,18 and more,parent,no,adult
+1,1,0,1,1,1,0,1,1,1,42.0,female,latino,yes,no,mexico,no,8.0,18 and more,self,yes,adult
+0,1,0,0,1,0,1,1,0,0,37.0,male,white-european,no,no,belgium,no,4.0,18 and more,self,no,adult
+1,0,1,1,1,0,0,1,0,1,23.0,female,white-european,no,yes,united kingdom,no,6.0,18 and more,self,no,adult
+1,0,1,1,1,0,1,1,1,1,24.0,male,white-european,no,yes,united kingdom,no,8.0,18 and more,relative,yes,adult
+1,0,1,0,1,0,1,1,0,1,41.0,male,unknown,yes,yes,united kingdom,no,6.0,18 and more,self,no,adult
+1,0,1,0,0,0,1,0,0,1,41.0,male,asian,no,no,united kingdom,no,4.0,18 and more,self,no,adult
+0,1,1,0,1,0,0,1,0,0,27.0,male,white-european,no,no,belgium,no,4.0,18 and more,self,no,adult
+1,1,1,1,1,1,1,1,1,1,46.0,female,white-european,yes,yes,united kingdom,no,10.0,18 and more,self,yes,adult
+0,1,0,0,0,0,0,0,0,1,40.0,female,white-european,yes,no,united states,no,2.0,18 and more,self,no,adult
+0,1,1,1,1,1,1,1,0,1,22.0,female,white-european,no,no,united states,no,8.0,18 and more,self,yes,adult
+1,1,1,1,1,1,1,0,1,1,42.0,male,white-european,no,no,united kingdom,no,9.0,18 and more,self,yes,adult
+1,1,1,0,0,0,0,0,0,1,18.0,female,asian,no,no,viet nam,no,4.0,18 and more,self,no,adult
+1,0,1,1,0,0,0,0,0,0,44.0,female,white-european,no,no,united kingdom,no,3.0,18 and more,self,no,adult
+1,1,1,1,1,0,1,1,1,1,30.0,female,white-european,no,no,united states,no,9.0,18 and more,self,yes,adult
+1,1,1,1,1,1,0,1,1,1,42.0,male,white-european,no,no,australia,no,9.0,18 and more,self,yes,adult
+1,1,0,1,0,0,1,0,0,0,35.0,female,white-european,no,yes,united states,no,4.0,18 and more,parent,no,adult
+1,0,1,1,1,0,1,0,1,1,40.0,male,black,no,no,americansamoa,no,7.0,18 and more,self,yes,adult
+0,1,0,0,0,0,0,0,1,1,50.0,female,unknown,no,no,new zealand,no,3.0,18 and more,self,no,adult
+0,0,1,1,0,0,0,0,0,1,38.0,male,middle eastern,no,no,egypt,no,3.0,18 and more,self,no,adult
+1,1,1,1,1,0,0,1,1,1,26.0,female,white-european,no,yes,italy,no,8.0,18 and more,self,yes,adult
+1,1,1,1,1,0,0,1,0,1,27.0,female,white-european,no,no,malaysia,no,7.0,18 and more,self,yes,adult
+1,1,1,1,1,0,1,0,1,0,47.0,female,white-european,yes,yes,united states,no,7.0,18 and more,self,yes,adult
+1,1,0,1,1,1,0,0,0,1,21.0,male,black,yes,yes,united states,no,6.0,18 and more,parent,no,adult
+1,1,1,1,0,1,0,1,1,1,37.0,male,white-european,no,no,united kingdom,no,8.0,18 and more,self,yes,adult
+1,0,0,0,0,0,1,1,0,1,19.0,female,others,no,no,united kingdom,no,4.0,18 and more,self,no,adult
+0,0,0,1,0,0,1,1,0,1,32.0,male,asian,no,no,united arab emirates,no,4.0,18 and more,self,no,adult
+0,0,0,0,1,0,0,1,0,1,26.0,female,unknown,no,no,iran,no,3.0,18 and more,self,no,adult
+1,1,1,1,1,1,1,1,1,1,46.0,female,white-european,yes,yes,australia,no,10.0,18 and more,self,yes,adult
+0,1,0,0,0,0,0,1,0,0,29.0,male,black,no,no,france,no,2.0,18 and more,self,no,adult
+1,0,0,0,1,0,0,0,0,0,30.0,female,black,no,no,france,no,2.0,18 and more,self,no,adult
+1,1,0,0,0,0,1,1,0,0,32.0,female,latino,no,no,bolivia,no,4.0,18 and more,relative,no,adult
+0,1,1,1,0,0,0,0,0,1,35.0,female,white-european,yes,no,united states,no,4.0,18 and more,self,no,adult
+0,1,1,1,1,1,1,1,1,1,22.0,male,white-european,no,no,united kingdom,no,9.0,18 and more,self,yes,adult
+0,0,0,1,1,0,1,0,0,1,19.0,female,unknown,no,no,iran,no,4.0,18 and more,self,no,adult
+0,1,0,0,1,0,0,0,0,1,24.0,male,unknown,no,no,iran,no,3.0,18 and more,self,no,adult
+0,1,0,0,1,0,0,0,0,0,52.0,female,unknown,no,no,iran,no,2.0,18 and more,self,no,adult
+0,1,0,0,1,1,0,0,1,1,52.0,male,unknown,no,no,iran,no,5.0,18 and more,self,no,adult
+1,0,1,0,0,1,0,1,0,0,32.0,female,white-european,no,no,united states,no,4.0,18 and more,self,no,adult
+0,1,1,1,1,1,0,0,0,1,24.0,male,white-european,no,no,united states,no,6.0,18 and more,relative,no,adult
+1,1,1,1,1,1,0,1,1,1,24.0,male,white-european,no,no,united states,no,9.0,18 and more,relative,yes,adult
+0,1,0,0,0,0,0,0,0,0,49.0,female,middle eastern,yes,no,new zealand,no,1.0,18 and more,parent,no,adult
+0,1,1,1,1,1,1,1,1,1,30.0,female,asian,no,no,malaysia,no,9.0,18 and more,self,yes,adult
+0,1,1,1,1,1,1,1,1,1,30.0,female,asian,no,yes,malaysia,yes,9.0,18 and more,self,yes,adult
+1,0,1,1,1,1,1,1,1,1,35.0,female,white-european,yes,no,united kingdom,no,9.0,18 and more,self,yes,adult
+1,0,1,1,1,1,1,0,0,1,35.0,female,white-european,yes,no,united kingdom,no,7.0,18 and more,self,yes,adult
+1,0,1,1,0,0,0,0,0,1,37.0,female,white-european,no,yes,united kingdom,no,4.0,18 and more,self,no,adult
+0,1,1,1,0,0,0,1,0,1,43.0,male,white-european,no,no,united kingdom,no,5.0,18 and more,self,no,adult
+1,1,1,1,0,0,1,0,0,1,52.0,male,white-european,no,no,united kingdom,no,6.0,18 and more,self,no,adult
+1,1,1,1,1,1,1,1,1,1,44.0,male,white-european,no,yes,united kingdom,no,10.0,18 and more,self,yes,adult
+1,1,0,0,0,0,0,0,0,0,46.0,female,white-european,no,yes,united kingdom,no,2.0,18 and more,self,no,adult
+1,0,0,0,1,0,0,0,0,1,42.0,female,white-european,no,yes,australia,no,3.0,18 and more,self,no,adult
+0,0,1,0,0,0,0,0,0,0,20.0,male,asian,no,no,aruba,no,1.0,18 and more,self,no,adult
+1,1,1,0,1,0,1,0,1,1,18.0,male,middle eastern,no,no,new zealand,no,7.0,18 and more,self,yes,adult
+1,1,1,1,1,1,0,1,1,1,38.0,male,white-european,no,no,finland,no,9.0,18 and more,relative,yes,adult
+1,0,0,1,1,0,0,1,0,0,24.0,female,latino,no,yes,mexico,no,4.0,18 and more,self,no,adult
+1,1,0,0,0,0,0,1,0,0,32.0,male,unknown,no,no,jordan,no,3.0,18 and more,self,no,adult
+1,1,0,1,1,0,0,0,0,0,29.0,male,turkish,no,no,united states,no,4.0,18 and more,self,no,adult
+1,1,1,1,1,1,1,1,0,1,22.0,female,white-european,no,no,united states,no,9.0,18 and more,self,yes,adult
+0,1,1,1,1,1,0,0,0,1,19.0,female,white-european,yes,no,united kingdom,no,6.0,18 and more,self,no,adult
+1,1,1,1,1,1,1,0,1,1,39.0,female,white-european,no,yes,united states,no,9.0,18 and more,self,yes,adult
+1,0,0,1,1,1,1,1,1,1,17.0,male,black,no,no,united states,no,8.0,18 and more,self,yes,adult
+0,1,0,1,0,1,1,0,1,1,19.0,female,middle eastern,no,no,iceland,no,6.0,18 and more,parent,no,adult
+1,0,0,0,0,0,1,1,1,0,18.0,male,white-european,no,no,australia,no,4.0,18 and more,parent,no,adult
+0,1,0,0,1,1,0,0,1,0,19.0,male,unknown,no,no,kazakhstan,yes,4.0,18 and more,self,no,adult
+0,1,0,0,0,0,0,1,0,0,28.0,female,turkish,no,no,turkey,no,2.0,18 and more,self,no,adult
+0,1,0,1,0,1,0,0,0,1,29.0,male,asian,no,no,new zealand,no,4.0,18 and more,self,no,adult
+1,1,0,0,0,0,1,1,0,0,48.0,male,white-european,no,no,australia,no,4.0,18 and more,self,no,adult
+1,1,1,1,1,1,0,1,1,1,27.0,female,white-european,yes,yes,netherlands,no,9.0,18 and more,self,yes,adult
+1,0,1,1,0,0,0,0,0,0,34.0,female,white-european,no,no,united kingdom,no,3.0,18 and more,self,no,adult
+1,1,0,1,0,0,0,0,0,1,31.0,male,white-european,no,no,australia,no,4.0,18 and more,self,no,adult
+1,0,0,0,0,0,0,1,0,1,47.0,male,unknown,no,no,jordan,no,3.0,18 and more,self,no,adult
+1,0,0,1,0,0,0,1,0,0,47.0,male,unknown,no,no,jordan,no,3.0,18 and more,self,no,adult
+1,1,1,1,1,1,1,1,1,1,44.0,male,white-european,no,yes,united kingdom,no,10.0,18 and more,self,yes,adult
+1,0,0,0,1,0,1,1,0,0,25.0,female,white-european,no,no,united states,no,4.0,18 and more,self,no,adult
+1,0,0,0,1,0,1,1,0,0,25.0,female,white-european,no,no,united states,no,4.0,18 and more,self,no,adult
+1,1,0,0,1,1,1,1,1,1,20.0,male,white-european,no,no,united kingdom,no,8.0,18 and more,self,yes,adult
+1,1,1,1,1,0,1,1,1,1,43.0,male,white-european,yes,no,new zealand,no,9.0,18 and more,self,yes,adult
+1,1,1,1,1,0,0,1,1,1,36.0,female,white-european,no,yes,united kingdom,no,8.0,18 and more,self,yes,adult
+1,1,0,0,0,0,0,1,0,0,30.0,female,asian,no,yes,united states,no,3.0,18 and more,self,no,adult
+0,0,1,1,0,0,0,0,0,0,44.0,male,black,no,no,united kingdom,no,2.0,18 and more,self,no,adult
+1,1,0,0,1,0,0,0,0,1,40.0,female,black,no,no,united kingdom,no,4.0,18 and more,parent,no,adult
+1,1,0,0,1,1,0,1,1,0,40.0,female,black,yes,no,united kingdom,no,6.0,18 and more,relative,no,adult
+1,1,0,1,1,1,0,1,1,0,40.0,female,black,yes,yes,united kingdom,no,7.0,18 and more,relative,yes,adult
+1,1,1,1,1,0,0,1,0,1,30.0,male,others,no,no,united states,no,7.0,18 and more,self,yes,adult
+1,0,1,1,0,0,1,0,0,1,47.0,female,white-european,no,no,united kingdom,no,5.0,18 and more,self,no,adult
+1,1,1,1,1,1,1,1,1,1,21.0,male,black,no,no,brazil,no,10.0,18 and more,self,yes,adult
+1,1,1,1,1,1,0,1,1,1,21.0,male,black,no,no,brazil,no,9.0,18 and more,self,yes,adult
+1,0,1,1,1,1,1,1,1,1,31.0,female,unknown,no,no,new zealand,no,9.0,18 and more,self,yes,adult
+1,1,1,0,0,0,0,0,0,0,21.0,female,asian,no,no,new zealand,no,3.0,18 and more,self,no,adult
+0,1,1,1,0,0,0,1,1,0,29.0,female,asian,no,no,united states,no,5.0,18 and more,self,no,adult
+0,1,1,1,1,0,1,0,1,0,22.0,male,middle eastern,no,no,afghanistan,no,6.0,18 and more,self,no,adult
+1,1,1,1,1,1,1,1,1,1,51.0,male,white-european,yes,no,united kingdom,no,10.0,18 and more,self,yes,adult
+1,0,0,0,0,0,0,0,0,0,23.0,male,unknown,no,no,russia,no,1.0,18 and more,self,no,adult
+1,0,0,0,1,0,0,0,1,1,30.0,male,asian,no,no,india,no,4.0,18 and more,self,no,adult
+1,1,0,0,0,0,0,1,0,0,22.0,male,others,no,no,india,no,3.0,18 and more,self,no,adult
+1,1,0,0,0,0,0,1,0,1,22.0,male,asian,no,no,new zealand,no,4.0,18 and more,self,no,adult
+1,0,0,0,1,0,1,1,0,1,24.0,male,asian,no,no,india,no,5.0,18 and more,self,no,adult
+1,0,0,0,0,0,0,1,0,1,26.0,female,south asian,no,no,india,no,3.0,18 and more,self,no,adult
+1,0,1,1,0,0,0,1,1,1,33.0,female,asian,no,no,india,no,6.0,18 and more,parent,no,adult
+1,0,0,0,0,0,0,1,1,0,23.0,male,asian,no,no,india,no,3.0,18 and more,self,no,adult
+1,0,1,0,0,0,0,1,0,0,42.0,female,asian,no,no,india,no,3.0,18 and more,self,no,adult
+1,0,1,0,0,0,0,0,0,0,26.0,female,asian,no,no,india,no,2.0,18 and more,self,no,adult
+1,0,0,0,0,0,0,1,0,0,29.0,female,asian,no,no,new zealand,no,2.0,18 and more,self,no,adult
+1,0,0,0,0,0,1,0,0,1,35.0,female,asian,no,no,india,no,3.0,18 and more,self,no,adult
+1,0,0,0,1,1,0,1,0,0,25.0,female,south asian,no,no,india,no,4.0,18 and more,self,no,adult
+1,0,0,0,0,0,1,1,0,0,25.0,male,asian,no,no,sri lanka,no,3.0,18 and more,self,no,adult
+0,0,0,0,0,0,0,1,0,0,28.0,female,asian,yes,no,india,no,1.0,18 and more,self,no,adult
+1,0,0,0,0,0,0,0,0,0,33.0,male,white-european,no,no,germany,no,1.0,18 and more,self,no,adult
+1,0,0,1,0,0,1,1,0,0,25.0,male,asian,no,no,india,no,4.0,18 and more,self,no,adult
+0,0,1,0,1,1,0,1,0,1,25.0,male,asian,no,no,india,no,5.0,18 and more,self,no,adult
+1,0,0,0,1,0,1,1,0,0,24.0,male,asian,no,no,india,no,4.0,18 and more,self,no,adult
+1,1,1,1,0,0,0,0,0,1,27.0,female,south asian,no,no,india,no,5.0,18 and more,self,no,adult
+1,0,0,0,0,0,0,0,0,0,22.0,male,south asian,no,no,india,no,1.0,18 and more,self,no,adult
+1,1,0,1,0,0,0,1,0,1,21.0,female,south asian,no,no,india,no,5.0,18 and more,self,no,adult
+1,0,1,1,0,1,0,1,0,1,27.0,female,south asian,no,no,india,no,6.0,18 and more,self,no,adult
+1,0,0,0,1,0,1,0,0,0,23.0,male,south asian,no,no,india,no,3.0,18 and more,self,no,adult
+0,0,0,1,1,0,0,1,0,1,22.0,male,asian,no,no,india,no,4.0,18 and more,self,no,adult
+0,1,0,0,0,0,0,0,0,1,23.0,female,south asian,no,no,india,no,2.0,18 and more,self,no,adult
+1,0,0,1,0,0,0,1,0,1,30.0,male,asian,no,no,india,no,4.0,18 and more,self,no,adult
+0,1,0,0,1,0,1,1,0,0,33.0,male,asian,no,no,india,no,4.0,18 and more,self,no,adult
+1,0,1,1,1,0,1,1,1,0,24.0,female,south asian,no,no,india,no,7.0,18 and more,self,yes,adult
+1,0,0,0,1,0,1,1,0,0,22.0,female,asian,no,no,new zealand,no,4.0,18 and more,self,no,adult
+1,0,0,1,1,0,1,1,1,1,22.0,male,asian,no,no,new zealand,no,7.0,18 and more,self,yes,adult
+1,0,0,0,0,0,0,1,0,1,29.0,female,south asian,no,no,india,no,3.0,18 and more,self,no,adult
+1,0,1,0,1,0,1,1,0,1,22.0,female,asian,no,no,india,no,6.0,18 and more,self,no,adult
+1,0,1,0,0,0,0,1,0,0,21.0,male,asian,yes,no,india,no,3.0,18 and more,self,no,adult
+1,0,0,0,0,0,1,1,0,0,23.0,male,asian,no,no,india,no,3.0,18 and more,self,no,adult
+1,0,0,0,1,0,1,1,0,1,23.0,female,others,no,no,india,no,5.0,18 and more,self,no,adult
+1,0,0,0,1,0,1,1,1,1,23.0,female,asian,no,no,india,no,6.0,18 and more,self,no,adult
+1,1,0,1,1,0,1,1,0,0,32.0,male,asian,no,no,sri lanka,no,6.0,18 and more,self,no,adult
+0,0,0,0,0,0,1,0,0,1,27.0,male,asian,no,no,sri lanka,no,2.0,18 and more,self,no,adult
+0,0,1,0,0,0,0,1,0,0,28.0,female,asian,no,no,india,no,2.0,18 and more,parent,no,adult
+1,1,0,0,1,0,0,1,1,1,25.0,female,middle eastern,no,no,india,no,6.0,18 and more,self,no,adult
+1,0,1,0,1,0,1,1,1,1,22.0,male,black,no,no,nepal,no,7.0,18 and more,self,yes,adult
+0,1,1,0,0,0,1,0,0,1,36.0,male,white-european,no,no,united kingdom,no,4.0,18 and more,self,no,adult
+0,0,0,0,0,0,0,0,0,0,27.0,female,unknown,no,no,russia,no,0.0,18 and more,self,no,adult
+1,1,1,1,1,1,1,1,1,1,21.0,female,white-european,no,no,germany,no,10.0,18 and more,self,yes,adult
+1,1,0,1,1,0,0,1,0,0,18.0,male,black,no,no,united states,no,5.0,18 and more,self,no,adult
+1,0,0,0,1,1,1,1,1,1,49.0,male,black,no,no,mexico,no,7.0,18 and more,parent,yes,adult
+1,1,1,0,0,0,0,1,0,0,18.0,male,asian,no,no,indonesia,no,4.0,18 and more,self,no,adult
+1,0,1,1,1,0,1,1,1,0,29.0,male,latino,no,no,united states,no,7.0,18 and more,self,yes,adult
+0,0,0,0,1,0,0,1,0,0,31.0,female,unknown,no,no,new zealand,no,2.0,18 and more,self,no,adult
+1,0,0,0,0,0,0,0,0,0,37.0,female,middle eastern,no,no,new zealand,no,1.0,18 and more,parent,no,adult
+1,0,1,1,1,0,0,1,0,1,17.0,male,middle eastern,yes,no,new zealand,no,6.0,18 and more,parent,no,adult
+1,0,1,1,0,0,1,1,1,1,17.0,male,unknown,no,yes,new zealand,no,7.0,18 and more,self,yes,adult
+1,1,1,1,0,0,0,0,0,0,38.0,female,middle eastern,no,no,jordan,no,4.0,18 and more,self,no,adult
+1,0,1,0,0,1,0,1,0,1,18.0,male,white-european,yes,no,angola,no,5.0,18 and more,parent,no,adult
+1,0,1,1,1,0,0,0,0,0,31.0,female,middle eastern,no,no,united arab emirates,no,4.0,18 and more,self,no,adult
+0,1,1,1,0,0,0,0,0,0,33.0,male,middle eastern,yes,no,united arab emirates,yes,3.0,18 and more,self,no,adult
+1,1,0,0,0,0,0,0,0,0,32.0,female,middle eastern,yes,no,jordan,no,2.0,18 and more,self,no,adult
+1,0,0,0,0,0,1,0,0,1,30.0,male,unknown,yes,no,jordan,no,3.0,18 and more,self,no,adult
+0,0,0,0,0,0,0,0,0,1,33.0,female,unknown,no,no,united states,no,1.0,18 and more,self,no,adult
+1,1,1,1,1,1,1,1,1,1,30.0,female,white-european,no,yes,canada,no,10.0,18 and more,self,yes,adult
+1,1,1,1,1,0,1,1,1,1,30.0,male,asian,no,no,united states,no,9.0,18 and more,self,yes,adult
+1,0,0,1,1,0,1,0,0,1,38.0,female,white-european,no,yes,united kingdom,no,5.0,18 and more,self,no,adult
+1,0,0,0,1,0,1,0,1,1,22.0,male,asian,no,no,india,no,5.0,18 and more,self,no,adult
+1,1,0,0,1,0,1,0,1,0,36.0,male,others,no,no,united states,no,5.0,18 and more,self,no,adult
+0,0,1,1,0,0,1,0,0,0,43.0,male,unknown,no,no,azerbaijan,no,3.0,18 and more,self,no,adult
+1,1,1,1,1,1,0,0,1,1,44.0,male,unknown,no,no,pakistan,no,8.0,18 and more,self,yes,adult
+1,1,1,0,1,1,0,1,1,1,20.0,female,white-european,no,no,france,no,8.0,18 and more,self,yes,adult
+1,1,1,1,1,1,0,1,1,1,40.0,female,others,yes,yes,australia,no,9.0,18 and more,self,yes,adult
+1,0,0,1,1,1,0,0,1,0,25.0,male,white-european,no,no,italy,no,5.0,18 and more,self,no,adult
+1,0,0,0,0,0,1,1,0,1,28.0,male,white-european,no,no,australia,no,4.0,18 and more,self,no,adult
+0,0,0,0,0,0,1,1,0,1,17.0,male,white-european,no,no,canada,no,3.0,18 and more,self,no,adult
+1,1,1,1,1,1,1,0,1,1,34.0,male,white-european,no,no,united states,no,9.0,18 and more,self,yes,adult
+0,0,0,0,0,0,0,1,0,0,56.0,male,unknown,no,no,iraq,no,1.0,18 and more,self,no,adult
+0,0,1,0,0,0,1,1,0,0,50.0,female,middle eastern,no,no,new zealand,no,3.0,18 and more,parent,no,adult
+1,0,0,0,0,0,1,1,0,1,38.0,male,white-european,no,no,united states,no,4.0,18 and more,self,no,adult
+1,1,1,1,1,1,1,1,1,1,47.0,male,white-european,no,no,united states,no,10.0,18 and more,self,yes,adult
+1,1,1,1,1,0,1,1,1,1,30.0,male,others,no,no,united states,no,9.0,18 and more,self,yes,adult
+1,1,1,1,1,0,0,1,0,1,21.0,male,hispanic,no,no,united states,no,7.0,18 and more,self,yes,adult
+1,1,1,1,1,0,1,1,0,1,21.0,male,white-european,no,no,ireland,no,8.0,18 and more,self,yes,adult
+1,1,1,0,1,0,1,1,1,1,31.0,male,latino,no,no,mexico,no,8.0,18 and more,self,yes,adult
+1,1,0,0,1,1,0,1,0,1,27.0,female,white-european,yes,no,czech republic,no,6.0,18 and more,self,no,adult
+1,1,1,1,0,0,0,0,1,0,24.0,female,white-european,yes,no,united states,no,5.0,18 and more,self,no,adult
+1,1,0,0,0,0,1,0,0,1,35.0,male,white-european,yes,no,united kingdom,no,4.0,18 and more,parent,no,adult
+1,0,0,0,0,0,1,0,0,1,18.0,male,black,no,no,ethiopia,no,3.0,18 and more,health care professional,no,adult
+1,1,1,1,1,0,0,1,1,1,43.0,female,black,no,no,united states,no,8.0,18 and more,self,yes,adult
+1,1,1,1,1,1,1,1,1,1,44.0,male,white-european,no,yes,afghanistan,no,10.0,18 and more,self,yes,adult
+1,1,1,1,1,1,1,1,1,1,40.0,male,white-european,yes,yes,united kingdom,no,10.0,18 and more,parent,yes,adult
+1,1,0,1,1,1,1,1,1,1,49.0,female,hispanic,no,no,united states,no,9.0,18 and more,self,yes,adult
+1,1,0,0,0,0,0,1,0,0,24.0,male,hispanic,no,no,united states,no,3.0,18 and more,self,no,adult
+1,1,0,0,0,0,0,1,1,0,30.0,female,white-european,yes,yes,united states,no,4.0,18 and more,self,no,adult
+1,0,1,0,0,0,0,1,0,1,53.0,male,hispanic,no,no,united states,no,4.0,18 and more,relative,no,adult
+1,0,1,1,1,0,0,1,1,1,38.0,male,white-european,no,yes,belgium,no,7.0,18 and more,self,yes,adult
+1,0,0,0,1,0,1,1,0,1,28.0,male,white-european,no,no,united states,no,5.0,18 and more,self,no,adult
+1,1,1,0,1,1,1,1,1,1,28.0,male,white-european,no,no,united states,no,9.0,18 and more,self,yes,adult
+1,0,1,1,1,1,1,0,1,1,26.0,male,black,no,no,canada,no,8.0,18 and more,self,yes,adult
+1,0,0,0,1,1,1,1,1,1,39.0,female,white-european,no,no,canada,no,7.0,18 and more,self,yes,adult
+0,0,0,0,1,0,0,0,0,0,31.0,female,asian,yes,no,india,no,1.0,18 and more,self,no,adult
+1,0,0,1,0,0,1,1,0,0,24.0,male,black,no,no,united states,no,4.0,18 and more,self,no,adult
+1,1,1,0,1,1,1,1,0,1,28.0,male,white-european,no,no,united states,no,8.0,18 and more,self,yes,adult
+1,0,0,1,0,0,0,1,0,1,31.0,female,white-european,no,no,united kingdom,no,4.0,18 and more,self,no,adult
+1,1,1,1,1,0,0,1,0,1,27.0,male,white-european,yes,no,united states,no,7.0,18 and more,self,yes,adult
+1,0,1,1,0,0,1,1,0,0,28.0,male,latino,no,no,brazil,yes,5.0,18 and more,parent,no,adult
+1,1,1,1,1,1,0,1,1,1,31.0,male,turkish,no,yes,australia,no,9.0,18 and more,self,yes,adult
+1,1,1,1,1,0,0,0,0,1,46.0,female,asian,no,no,philippines,no,6.0,18 and more,self,no,adult
+1,1,1,1,1,1,1,1,1,1,27.0,female,pasifika,no,no,australia,no,10.0,18 and more,self,yes,adult
+0,1,0,1,1,0,1,1,1,1,25.0,female,white-european,no,no,russia,no,7.0,18 and more,self,yes,adult
+1,0,0,0,0,0,0,1,0,1,34.0,male,hispanic,no,no,mexico,no,3.0,18 and more,parent,no,adult
+1,0,1,1,1,0,1,1,0,1,24.0,female,unknown,no,no,russia,no,7.0,18 and more,self,yes,adult
+1,0,0,1,1,0,1,0,1,1,35.0,male,south asian,no,no,pakistan,no,6.0,18 and more,self,no,adult
+1,0,1,1,1,0,1,1,1,1,26.0,female,white-european,no,no,cyprus,no,8.0,18 and more,self,yes,adult
+0,0,0,1,1,1,1,1,1,0,15.0,male,hispanic,yes,yes,austria,no,6.0,12-16 years,parent,no,adolescent
+0,0,0,0,0,0,0,0,1,1,15.0,male,black,no,no,austria,no,2.0,12-16 years,relative,no,adolescent
+0,0,0,0,0,0,0,0,1,1,12.0,female,unknown,no,no,americansamoa,no,2.0,12-16 years,unknown,no,adolescent
+0,1,1,1,1,1,0,1,1,0,14.0,female,white-european,no,no,united kingdom,no,7.0,12-16 years,self,yes,adolescent
+1,1,1,1,1,1,1,0,0,0,16.0,female,unknown,no,no,albania,no,7.0,12-16 years,unknown,yes,adolescent
+1,0,0,0,0,1,0,0,1,0,13.0,female,unknown,no,no,belgium,no,3.0,12-16 years,unknown,no,adolescent
+0,0,0,1,1,1,1,1,1,0,16.0,female,unknown,no,no,afghanistan,no,6.0,12-16 years,unknown,no,adolescent
+1,1,0,1,1,0,1,1,0,1,15.0,female,middle eastern,no,no,australia,no,7.0,12-16 years,parent,yes,adolescent
+1,1,1,1,1,1,0,0,0,0,12.0,male,black,yes,yes,bahrain,no,6.0,12-16 years,parent,no,adolescent
+0,1,1,0,0,1,0,0,1,0,12.0,female,south asian,no,no,azerbaijan,no,4.0,12-16 years,parent,no,adolescent
+1,0,0,0,1,1,0,1,1,0,13.0,female,middle eastern,yes,no,united arab emirates,no,5.0,12-16 years,parent,no,adolescent
+1,0,0,0,1,1,0,0,1,1,13.0,female,white-european,no,no,united kingdom,no,5.0,12-16 years,self,no,adolescent
+1,0,0,1,1,1,0,1,1,1,12.0,female,others,no,no,united kingdom,no,7.0,12-16 years,self,yes,adolescent
+1,1,1,1,1,1,0,1,1,1,12.0,female,others,no,no,united kingdom,no,9.0,12-16 years,parent,yes,adolescent
+1,0,1,1,1,1,0,1,1,1,12.0,female,others,no,no,united kingdom,no,8.0,12-16 years,self,yes,adolescent
+1,1,0,1,1,1,1,1,1,1,15.0,female,white-european,no,yes,united kingdom,no,9.0,12-16 years,parent,yes,adolescent
+1,0,0,0,1,0,0,1,0,1,12.0,female,others,yes,yes,united kingdom,no,4.0,12-16 years,parent,no,adolescent
+1,0,1,1,1,1,0,1,1,1,12.0,female,others,no,no,united kingdom,no,8.0,12-16 years,parent,yes,adolescent
+1,1,1,1,1,0,0,1,1,0,13.0,female,white-european,no,no,united kingdom,no,7.0,12-16 years,parent,yes,adolescent
+1,1,1,0,1,1,1,0,1,1,12.0,male,white-european,no,no,united kingdom,no,8.0,12-16 years,parent,yes,adolescent
+0,0,1,1,1,1,0,1,1,1,12.0,female,others,no,no,united kingdom,no,7.0,12-16 years,parent,yes,adolescent
+1,1,1,1,0,1,1,1,1,1,14.0,male,white-european,no,no,new zealand,no,9.0,12-16 years,parent,yes,adolescent
+1,1,1,1,1,1,1,1,1,1,15.0,female,white-european,no,no,australia,no,10.0,12-16 years,parent,yes,adolescent
+1,0,1,1,1,1,1,1,1,1,13.0,male,middle eastern,no,yes,united states,no,9.0,12-16 years,parent,yes,adolescent
+1,1,1,1,1,1,1,1,1,1,14.0,male,hispanic,no,no,argentina,no,10.0,12-16 years,self,yes,adolescent
+1,0,1,1,1,1,0,1,1,1,12.0,female,others,no,no,united kingdom,no,8.0,12-16 years,health care professional,yes,adolescent
+1,1,0,1,0,0,0,0,0,0,12.0,male,middle eastern,no,no,jordan,no,3.0,12-16 years,self,no,adolescent
+1,0,1,1,1,0,0,0,1,1,14.0,female,white-european,no,no,canada,no,6.0,12-16 years,self,no,adolescent
+1,1,0,0,0,0,1,0,1,0,13.0,male,unknown,no,no,afghanistan,no,4.0,12-16 years,unknown,no,adolescent
+0,1,1,1,1,1,1,1,1,1,16.0,male,others,no,no,united kingdom,no,9.0,12-16 years,parent,yes,adolescent
+1,0,1,1,1,1,0,1,1,1,14.0,female,white-european,no,no,united kingdom,no,8.0,12-16 years,self,yes,adolescent
+1,1,1,1,1,1,0,0,0,1,13.0,male,white-european,no,no,united kingdom,no,7.0,12-16 years,self,yes,adolescent
+1,0,1,1,1,1,0,1,1,1,16.0,female,white-european,no,no,united states,no,8.0,12-16 years,self,yes,adolescent
+1,1,1,1,1,1,1,0,1,1,12.0,male,middle eastern,yes,no,united states,no,9.0,12-16 years,parent,yes,adolescent
+1,0,1,1,1,1,1,1,1,1,14.0,female,others,no,no,canada,no,9.0,12-16 years,self,yes,adolescent
+1,1,1,1,0,1,1,1,1,1,16.0,female,latino,no,yes,brazil,no,9.0,12-16 years,self,yes,adolescent
+1,0,1,1,1,1,1,1,1,1,15.0,female,black,no,no,united states,no,9.0,12-16 years,self,yes,adolescent
+0,0,1,1,1,1,1,1,1,1,14.0,female,others,no,no,canada,no,8.0,12-16 years,self,yes,adolescent
+0,0,1,1,1,1,1,1,1,1,12.0,male,white-european,no,no,united states,no,8.0,12-16 years,relative,yes,adolescent
+0,0,1,1,1,1,1,1,1,1,12.0,male,white-european,no,no,united states,no,8.0,12-16 years,relative,yes,adolescent
+1,0,1,0,1,1,1,1,1,1,15.0,male,white-european,no,no,croatia,no,8.0,12-16 years,health care professional,yes,adolescent
+1,1,0,0,1,1,0,0,1,0,13.0,female,others,yes,yes,united states,no,5.0,12-16 years,self,no,adolescent
+1,0,0,0,1,1,0,0,0,0,16.0,male,hispanic,no,no,argentina,no,3.0,12-16 years,self,no,adolescent
+0,1,1,1,1,1,1,1,1,1,16.0,male,hispanic,no,no,argentina,no,9.0,12-16 years,self,yes,adolescent
+0,0,1,1,1,1,1,1,1,0,15.0,female,white-european,no,no,argentina,no,7.0,12-16 years,parent,yes,adolescent
+1,1,1,1,1,1,1,1,1,1,16.0,male,asian,yes,no,india,no,10.0,12-16 years,relative,yes,adolescent
+0,1,1,1,1,1,1,1,1,1,16.0,male,asian,yes,no,india,yes,9.0,12-16 years,relative,yes,adolescent
+1,1,1,1,0,1,0,0,1,0,12.0,male,asian,no,no,bangladesh,no,6.0,12-16 years,parent,no,adolescent
+1,1,1,0,1,1,1,1,1,1,12.0,female,black,no,no,france,no,9.0,12-16 years,parent,yes,adolescent
+1,1,0,1,1,1,0,0,1,1,14.0,female,south asian,no,no,united kingdom,no,7.0,12-16 years,self,yes,adolescent
+0,0,1,1,0,1,0,1,1,1,13.0,male,asian,no,no,indonesia,no,6.0,12-16 years,parent,no,adolescent
+0,1,1,1,1,1,1,1,1,1,13.0,male,asian,no,no,indonesia,no,9.0,12-16 years,parent,yes,adolescent
+1,0,0,1,1,1,0,1,1,1,16.0,female,black,no,no,united states,no,7.0,12-16 years,self,yes,adolescent
+0,0,0,1,1,1,0,0,0,1,13.0,male,middle eastern,no,no,egypt,no,4.0,12-16 years,others,no,adolescent
+1,0,0,0,0,0,0,0,0,0,15.0,female,hispanic,no,no,argentina,no,1.0,12-16 years,self,no,adolescent
+0,0,0,1,0,0,1,1,0,0,15.0,male,latino,no,no,argentina,no,3.0,12-16 years,self,no,adolescent
+0,1,0,0,0,0,0,0,0,0,15.0,male,black,no,no,argentina,no,1.0,12-16 years,parent,no,adolescent
+1,1,1,1,1,1,1,1,0,0,16.0,male,white-european,no,no,argentina,no,8.0,12-16 years,self,yes,adolescent
+0,0,0,0,0,0,1,0,0,0,16.0,male,latino,no,no,argentina,no,1.0,12-16 years,self,no,adolescent
+1,1,1,1,1,1,1,1,1,1,16.0,male,latino,no,no,argentina,no,10.0,12-16 years,self,yes,adolescent
+1,1,1,1,1,1,1,1,1,1,12.0,female,white-european,no,yes,united kingdom,no,10.0,12-16 years,self,yes,adolescent
+1,1,0,0,0,0,0,1,0,0,16.0,female,white-european,no,no,united kingdom,no,3.0,12-16 years,self,no,adolescent
+0,0,1,1,1,1,1,1,1,1,16.0,female,white-european,no,no,netherlands,no,8.0,12-16 years,parent,yes,adolescent
+1,0,1,1,1,1,0,0,1,1,16.0,female,white-european,yes,no,greenland,no,7.0,12-16 years,self,yes,adolescent
+1,0,1,1,1,0,1,1,1,0,14.0,female,white-european,no,yes,united kingdom,no,7.0,12-16 years,self,yes,adolescent
+1,0,1,1,1,1,0,1,1,1,15.0,female,white-european,no,no,austria,no,8.0,12-16 years,health care professional,yes,adolescent
+1,0,1,1,1,1,0,1,1,1,15.0,female,asian,no,no,bahamas,no,8.0,12-16 years,self,yes,adolescent
+0,0,1,0,1,1,1,0,0,0,16.0,male,white-european,no,no,netherlands,no,4.0,12-16 years,others,no,adolescent
+1,1,1,1,1,1,0,0,1,1,13.0,female,white-european,no,no,united states,no,8.0,12-16 years,self,yes,adolescent
+1,1,0,0,1,0,1,1,1,1,14.0,male,others,no,no,united kingdom,no,7.0,12-16 years,self,yes,adolescent
+1,1,0,0,0,1,0,1,1,1,13.0,female,white-european,no,yes,belgium,yes,6.0,12-16 years,health care professional,no,adolescent
+0,1,0,1,1,1,0,1,1,1,16.0,female,white-european,no,no,united states,no,7.0,12-16 years,self,yes,adolescent
+1,1,1,1,0,1,0,0,1,1,12.0,female,black,no,yes,united kingdom,no,7.0,12-16 years,self,yes,adolescent
+1,1,1,1,1,1,0,1,1,0,12.0,male,white-european,no,no,albania,no,8.0,12-16 years,health care professional,yes,adolescent
+1,1,1,1,1,1,1,0,1,0,16.0,male,asian,no,no,united kingdom,no,8.0,12-16 years,parent,yes,adolescent
+1,1,1,0,1,0,1,0,1,0,16.0,male,asian,no,yes,united kingdom,no,6.0,12-16 years,self,no,adolescent
+1,1,1,1,1,1,1,0,1,1,14.0,female,white-european,no,no,south africa,no,9.0,12-16 years,parent,yes,adolescent
+1,1,0,0,1,0,1,0,0,0,12.0,male,asian,yes,no,viet nam,no,4.0,12-16 years,self,no,adolescent
+1,1,1,1,1,1,1,1,1,0,14.0,male,white-european,no,no,united states,no,9.0,12-16 years,parent,yes,adolescent
+1,0,1,1,0,1,1,1,1,1,16.0,female,white-european,yes,no,united kingdom,no,8.0,12-16 years,parent,yes,adolescent
+0,0,1,1,0,1,0,1,1,1,13.0,female,black,no,no,americansamoa,no,6.0,12-16 years,parent,no,adolescent
+1,0,0,0,1,1,0,1,0,0,16.0,male,south asian,no,no,comoros,no,4.0,12-16 years,self,no,adolescent
+1,1,1,0,1,1,1,0,1,1,16.0,male,asian,no,no,portugal,no,8.0,12-16 years,relative,yes,adolescent
+1,1,0,1,1,1,0,0,1,0,15.0,male,white-european,no,no,croatia,no,6.0,12-16 years,self,no,adolescent
+1,0,0,1,1,1,0,0,1,1,14.0,male,white-european,no,no,finland,no,6.0,12-16 years,parent,no,adolescent
+0,0,1,1,1,0,1,1,1,1,16.0,male,asian,yes,no,india,no,7.0,12-16 years,others,yes,adolescent
+1,1,1,1,1,1,1,0,1,1,16.0,male,asian,yes,no,india,no,9.0,12-16 years,relative,yes,adolescent
+0,1,1,1,0,0,0,1,1,1,16.0,female,white-european,yes,no,united kingdom,no,6.0,12-16 years,self,no,adolescent
+1,1,1,1,1,1,0,0,1,1,14.0,male,white-european,no,no,united kingdom,no,8.0,12-16 years,parent,yes,adolescent
+1,0,1,0,0,1,0,0,1,1,13.0,male,white-european,no,no,norway,no,5.0,12-16 years,self,no,adolescent
+1,1,0,1,1,1,1,1,1,1,16.0,male,white-european,no,no,united states,no,9.0,12-16 years,self,yes,adolescent
+1,1,0,1,1,1,1,1,1,1,15.0,male,white-european,yes,yes,united kingdom,no,9.0,12-16 years,self,yes,adolescent
+1,0,1,0,1,0,1,0,0,0,12.0,male,asian,no,no,india,yes,4.0,12-16 years,relative,no,adolescent
+1,1,1,0,1,1,0,0,1,1,16.0,male,white-european,yes,no,ireland,no,7.0,12-16 years,self,yes,adolescent
+1,1,0,1,0,0,1,1,0,0,15.0,male,asian,no,no,indonesia,no,5.0,12-15 years,self,no,adolescent
+1,1,1,0,1,1,1,1,1,1,15.0,female,middle eastern,no,yes,egypt,no,9.0,12-15 years,parent,yes,adolescent
+1,1,1,1,1,1,1,1,0,0,16.0,female,latino,no,no,austria,no,8.0,12-15 years,health care professional,yes,adolescent
+1,0,0,0,1,0,0,1,0,1,15.0,female,unknown,no,no,argentina,no,4.0,12-15 years,unknown,no,adolescent
+0,1,1,1,0,1,1,0,1,0,12.0,female,middle eastern,no,no,austria,no,6.0,12-15 years,parent,no,adolescent
+0,1,1,1,0,1,1,0,1,0,16.0,female,middle eastern,no,no,anguilla,yes,6.0,12-15 years,parent,no,adolescent
+1,0,1,0,0,0,0,1,0,1,16.0,male,asian,no,no,india,no,4.0,12-15 years,parent,no,adolescent
+1,0,0,1,1,1,1,1,1,1,12.0,female,white-european,no,no,united kingdom,no,8.0,12-16 years,self,yes,adolescent
+1,1,0,1,1,0,0,0,1,1,13.0,female,white-european,no,no,united kingdom,no,6.0,12-16 years,self,no,adolescent
+1,0,1,0,0,1,1,1,1,0,12.0,male,asian,no,no,india,no,6.0,12-16 years,parent,no,adolescent
+1,1,0,0,1,1,0,1,0,0,6.0,male,others,no,no,jordan,no,5.0,4-11 years,parent,no,child
+1,1,0,0,1,1,0,1,0,0,6.0,male,middle eastern,no,no,jordan,no,5.0,4-11 years,parent,no,child
+1,1,0,0,0,1,1,1,0,0,6.0,male,unknown,no,no,jordan,yes,5.0,4-11 years,parent,no,child
+0,1,0,0,1,1,0,0,0,1,5.0,female,unknown,yes,no,jordan,no,4.0,4-11 years,parent,no,child
+1,1,1,1,1,1,1,1,1,1,5.0,male,others,yes,no,united states,no,10.0,4-11 years,parent,yes,child
+0,0,1,0,1,1,0,1,0,1,4.0,male,unknown,no,yes,egypt,no,5.0,4-11 years,parent,no,child
+1,0,1,1,1,1,0,1,0,1,5.0,male,white-european,no,no,united kingdom,no,7.0,4-11 years,parent,yes,child
+1,1,1,1,1,1,1,1,0,0,5.0,female,middle eastern,no,no,bahrain,no,8.0,4-11 years,parent,yes,child
+1,1,1,1,1,1,1,0,0,0,11.0,female,middle eastern,no,no,bahrain,no,7.0,4-11 years,parent,yes,child
+0,0,1,1,1,0,1,1,0,0,11.0,female,unknown,no,yes,austria,no,5.0,4-11 years,parent,no,child
+1,0,0,0,1,1,1,1,1,1,10.0,male,white-european,yes,no,united kingdom,no,7.0,4-11 years,self,yes,child
+0,1,0,0,1,0,0,0,0,1,5.0,female,unknown,no,no,kuwait,no,3.0,4-11 years,parent,no,child
+0,1,1,1,1,1,1,1,1,1,4.0,male,white-european,yes,no,united states,no,9.0,4-11 years,parent,yes,child
+1,0,0,0,0,0,1,0,0,0,4.0,female,black,no,no,united arab emirates,no,2.0,4-11 years,parent,no,child
+1,1,1,1,1,1,1,1,1,1,6.0,male,white-european,no,no,europe,no,10.0,4-11 years,parent,yes,child
+1,1,1,1,1,1,1,1,1,1,8.0,male,white-european,no,no,malta,no,10.0,4-11 years,parent,yes,child
+1,1,1,1,1,1,0,1,1,1,4.0,male,south asian,no,no,bulgaria,no,9.0,4-11 years,parent,yes,child
+0,0,0,0,0,0,1,0,0,0,7.0,male,others,no,no,united states,no,1.0,4-11 years,parent,no,child
+1,0,1,1,1,0,1,1,1,1,11.0,male,white-european,no,yes,united states,no,8.0,4-11 years,parent,yes,child
+1,1,1,1,1,1,0,1,0,1,5.0,male,unknown,no,no,egypt,no,8.0,4-11 years,parent,yes,child
+1,1,1,1,1,1,1,0,1,0,5.0,male,white-european,yes,no,south africa,no,8.0,4-11 years,parent,yes,child
+0,0,1,1,0,1,0,1,1,0,9.0,female,unknown,no,no,egypt,no,5.0,4-11 years,parent,no,child
+1,1,0,1,0,0,0,0,0,0,4.0,male,asian,no,no,india,no,3.0,4-11 years,parent,no,child
+1,0,1,1,0,1,0,0,1,0,6.0,female,south asian,no,no,india,no,5.0,4-11 years,parent,no,child
+1,0,1,1,1,1,0,1,1,1,11.0,male,unknown,no,no,egypt,no,8.0,4-11 years,parent,yes,child
+0,0,1,1,1,0,1,1,1,0,6.0,male,white-european,no,yes,united kingdom,no,6.0,4-11 years,relative,no,child
+1,0,1,0,1,1,0,0,1,1,6.0,female,middle eastern,no,no,afghanistan,no,6.0,4-11 years,self,no,child
+1,1,1,1,1,1,1,1,1,1,5.0,male,white-european,yes,no,united states,yes,10.0,4-11 years,parent,yes,child
+0,1,1,0,0,0,1,1,0,1,6.0,male,unknown,no,yes,united arab emirates,no,5.0,4-11 years,parent,no,child
+0,0,1,0,1,0,1,0,0,0,4.0,female,others,yes,yes,georgia,no,3.0,4-11 years,parent,no,child
+1,1,1,1,1,1,1,1,1,1,11.0,male,white-european,no,no,united kingdom,no,10.0,4-11 years,parent,yes,child
+0,0,1,0,0,1,0,0,1,1,6.0,male,pasifika,yes,no,new zealand,no,4.0,4-11 years,parent,no,child
+1,0,0,1,0,1,1,1,1,1,6.0,male,unknown,no,no,egypt,no,7.0,4-11 years,parent,yes,child
+1,0,0,0,1,1,0,1,0,1,5.0,male,south asian,yes,no,india,no,5.0,4-11 years,health care professional,no,child
+1,0,0,0,1,1,0,0,1,1,6.0,male,south asian,yes,no,india,no,5.0,4-11 years,parent,no,child
+0,1,0,0,0,0,0,0,0,0,7.0,female,middle eastern,yes,no,syria,no,1.0,4-11 years,parent,no,child
+0,1,0,0,1,0,0,1,0,0,4.0,female,unknown,no,no,syria,no,3.0,4-11 years,parent,no,child
+1,1,0,0,0,0,0,0,0,0,7.0,male,asian,no,no,new zealand,no,2.0,4-11 years,parent,no,child
+1,1,1,1,1,1,1,1,1,1,4.0,male,white-european,yes,no,united kingdom,no,10.0,4-11 years,parent,yes,child
+0,1,1,1,1,1,1,1,0,1,4.0,male,asian,no,no,india,no,8.0,4-11 years,parent,yes,child
+0,0,1,1,1,1,0,1,0,1,5.0,male,unknown,yes,no,jordan,no,6.0,4-11 years,parent,no,child
+0,1,0,0,0,0,0,0,0,0,4.0,male,middle eastern,no,no,afghanistan,no,1.0,4-11 years,parent,no,child
+1,0,0,0,1,0,1,0,0,1,6.0,female,middle eastern,no,no,jordan,no,4.0,4-11 years,parent,no,child
+1,0,1,1,1,1,0,1,1,1,4.0,female,unknown,no,no,jordan,no,8.0,4-11 years,parent,yes,child
+0,0,0,1,0,0,1,0,0,0,10.0,male,middle eastern,no,no,jordan,no,2.0,4-11 years,parent,no,child
+0,1,1,0,1,1,0,0,0,1,4.0,female,middle eastern,yes,no,iraq,no,5.0,4-11 years,relative,no,child
+0,1,1,0,1,1,0,0,0,0,4.0,female,middle eastern,yes,no,iraq,no,4.0,4-11 years,relative,no,child
+1,1,1,0,1,0,1,1,0,1,6.0,male,unknown,no,no,jordan,no,7.0,4-11 years,parent,yes,child
+1,0,1,1,1,1,0,0,1,1,6.0,female,white-european,yes,no,new zealand,no,7.0,4-11 years,parent,yes,child
+0,1,0,0,1,0,0,0,0,0,7.0,male,middle eastern,no,yes,jordan,no,2.0,4-11 years,parent,no,child
+0,1,0,0,1,0,1,0,0,1,7.0,male,unknown,yes,no,jordan,no,4.0,4-11 years,parent,no,child
+0,0,1,0,1,1,1,0,1,1,4.0,male,asian,no,no,india,no,6.0,4-11 years,parent,no,child
+1,0,0,1,0,1,0,1,1,1,6.0,male,unknown,no,no,jordan,no,6.0,4-11 years,parent,no,child
+1,1,1,1,1,1,1,0,1,1,7.0,male,white-european,yes,no,united states,no,9.0,4-11 years,parent,yes,child
+1,0,1,1,0,1,0,0,0,1,5.0,male,unknown,no,no,united arab emirates,no,5.0,4-11 years,parent,no,child
+0,0,1,0,1,0,0,0,0,0,5.0,male,white-european,no,no,australia,no,2.0,4-11 years,parent,no,child
+0,0,1,0,0,1,0,0,0,0,6.0,male,unknown,no,no,saudi arabia,no,2.0,4-11 years,parent,no,child
+1,0,1,1,1,1,1,1,1,1,4.0,female,white-european,no,no,georgia,no,9.0,4-11 years,parent,yes,child
+1,0,1,1,1,1,1,1,1,0,9.0,female,middle eastern,no,no,armenia,no,8.0,4-11 years,health care professional,yes,child
+1,0,1,1,1,1,0,0,1,1,4.0,male,hispanic,no,yes,united states,no,7.0,4-11 years,parent,yes,child
+1,0,1,0,1,0,0,0,0,0,4.0,male,turkish,no,no,turkey,no,3.0,4-11 years,relative,no,child
+1,0,1,1,1,1,1,1,1,1,9.0,male,white-european,no,no,united states,no,9.0,4-11 years,parent,yes,child
+1,1,1,0,1,1,0,0,0,1,4.0,female,white-european,yes,no,australia,no,6.0,4-11 years,parent,no,child
+1,1,1,0,1,1,1,1,1,1,9.0,male,asian,yes,no,pakistan,no,9.0,4-11 years,parent,yes,child
+1,0,1,1,0,0,0,1,0,1,8.0,male,middle eastern,no,no,united states,no,5.0,4-11 years,parent,no,child
+0,0,1,0,0,0,0,0,0,0,6.0,male,middle eastern,no,no,jordan,no,1.0,4-11 years,parent,no,child
+1,0,0,0,1,0,0,0,0,1,4.0,male,white-european,no,no,united kingdom,no,3.0,4-11 years,parent,no,child
+1,0,0,0,1,0,1,0,0,1,4.0,male,white-european,no,no,united kingdom,no,4.0,4-11 years,parent,no,child
+0,0,1,0,1,1,1,0,1,0,4.0,female,unknown,no,yes,pakistan,no,5.0,4-11 years,parent,no,child
+1,0,1,1,1,1,1,1,1,1,4.0,male,white-european,no,yes,canada,no,9.0,4-11 years,parent,yes,child
+1,0,1,0,1,0,1,0,0,1,7.0,male,asian,no,no,oman,no,5.0,4-11 years,parent,no,child
+0,1,0,0,1,0,1,0,0,1,7.0,female,white-european,yes,no,united kingdom,no,4.0,4-11 years,parent,no,child
+1,0,1,1,1,1,0,1,0,1,6.0,male,south asian,no,no,india,no,7.0,4-11 years,parent,yes,child
+1,0,1,1,1,1,0,1,1,1,5.0,female,middle eastern,no,no,canada,no,8.0,4-11 years,parent,yes,child
+1,0,1,1,1,1,0,0,1,1,8.0,female,middle eastern,no,yes,canada,no,7.0,4-11 years,parent,yes,child
+0,0,0,1,1,1,1,1,1,0,5.0,male,white-european,no,no,united kingdom,no,6.0,4-11 years,parent,no,child
+1,1,1,1,0,1,1,1,1,1,11.0,female,others,no,no,canada,no,9.0,4-11 years,parent,yes,child
+1,0,0,0,1,0,1,0,0,1,8.0,male,white-european,yes,no,new zealand,no,4.0,4-11 years,parent,no,child
+1,1,1,1,1,1,1,0,1,1,4.0,male,latino,no,yes,brazil,no,9.0,4-11 years,parent,yes,child
+0,1,1,1,0,1,0,1,1,0,7.0,male,white-european,yes,no,new zealand,no,6.0,4-11 years,parent,no,child
+1,0,0,1,0,1,0,0,0,0,4.0,male,white-european,no,no,new zealand,no,3.0,4-11 years,parent,no,child
+0,1,1,1,1,1,1,1,1,1,7.0,male,white-european,yes,yes,new zealand,no,9.0,4-11 years,parent,yes,child
+1,0,1,1,1,1,1,1,0,1,8.0,male,white-european,no,no,united states,no,8.0,4-11 years,parent,yes,child
+0,1,1,0,1,1,0,0,0,1,5.0,male,asian,no,no,south korea,no,5.0,4-11 years,parent,no,child
+0,0,1,0,1,1,1,0,1,1,4.0,male,asian,no,no,india,no,6.0,4-11 years,parent,no,child
+1,1,1,1,1,1,1,0,1,1,11.0,female,white-european,no,no,united kingdom,no,9.0,4-11 years,parent,yes,child
+1,1,1,1,0,0,1,0,1,1,11.0,female,white-european,no,no,united kingdom,no,7.0,4-11 years,parent,yes,child
+1,1,1,1,1,1,1,1,1,1,4.0,male,white-european,no,no,south africa,no,10.0,4-11 years,parent,yes,child
+1,1,1,1,0,1,0,0,0,0,5.0,male,latino,no,yes,costa rica,no,5.0,4-11 years,parent,no,child
+0,1,1,1,1,1,1,1,1,1,6.0,male,hispanic,no,no,united states,no,9.0,4-11 years,parent,yes,child
+1,0,1,1,1,1,1,0,1,1,4.0,female,white-european,no,no,australia,no,8.0,4-11 years,parent,yes,child
+1,0,0,1,1,1,1,0,0,0,11.0,female,white-european,yes,yes,united kingdom,no,5.0,4-11 years,relative,no,child
+0,0,1,1,1,1,1,1,1,1,5.0,male,asian,no,no,india,no,8.0,4-11 years,parent,yes,child
+0,0,1,1,1,1,1,1,1,1,5.0,male,asian,no,no,india,no,8.0,4-11 years,parent,yes,child
+1,1,1,1,1,1,1,1,1,1,6.0,male,latino,no,no,united states,no,10.0,4-11 years,parent,yes,child
+1,0,1,0,1,1,1,1,0,1,7.0,male,hispanic,no,no,united states,no,7.0,4-11 years,parent,yes,child
+1,1,1,1,1,1,0,1,0,1,11.0,male,white-european,no,no,sweden,no,8.0,4-11 years,parent,yes,child
+1,1,1,1,1,0,1,0,1,1,4.0,male,white-european,no,no,australia,no,8.0,4-11 years,parent,yes,child
+1,1,1,0,1,1,1,0,1,1,4.0,male,white-european,no,yes,united states,no,8.0,4-11 years,parent,yes,child
+0,0,1,1,0,0,0,0,0,0,7.0,male,white-european,no,yes,united states,no,2.0,4-11 years,parent,no,child
+1,1,0,1,0,1,1,0,1,0,11.0,female,white-european,yes,yes,united kingdom,no,6.0,4-11 years,relative,no,child
+1,1,1,1,0,1,1,0,0,1,6.0,female,asian,no,no,philippines,no,7.0,4-11 years,parent,yes,child
+0,0,0,0,0,0,1,0,1,0,9.0,female,white-european,no,no,united kingdom,no,2.0,4-11 years,parent,no,child
+0,1,0,1,0,1,0,0,1,1,10.0,male,others,no,no,united states,no,5.0,4-11 years,relative,no,child
+0,0,0,0,1,1,1,0,0,1,4.0,male,asian,no,yes,malaysia,no,4.0,4-11 years,parent,no,child
+1,1,1,1,1,1,0,1,0,1,4.0,male,asian,yes,no,philippines,no,8.0,4-11 years,parent,yes,child
+1,1,1,1,1,1,0,0,1,1,10.0,male,white-european,yes,no,united kingdom,no,8.0,4-11 years,parent,yes,child
+1,0,0,0,1,0,0,0,0,1,4.0,female,white-european,yes,yes,united kingdom,no,3.0,4-11 years,parent,no,child
+0,1,0,0,0,1,1,1,0,0,11.0,male,asian,no,no,argentina,no,4.0,4-11 years,parent,no,child
+0,0,1,0,1,0,0,0,0,1,7.0,male,asian,no,no,japan,no,3.0,4-11 years,parent,no,child
+0,1,1,1,1,0,1,1,0,1,5.0,male,unknown,no,no,syria,no,7.0,4-11 years,parent,yes,child
+1,1,0,0,0,0,0,0,0,1,4.0,female,white-european,no,no,united states,no,3.0,4-11 years,parent,no,child
+0,0,1,1,1,1,0,1,1,1,8.0,male,white-european,no,no,united states,no,7.0,4-11 years,parent,yes,child
+1,1,1,1,1,1,1,1,1,0,4.0,male,white-european,no,no,australia,no,9.0,4-11 years,parent,yes,child
+1,0,1,0,1,1,0,1,0,1,4.0,male,south asian,no,no,india,no,6.0,4-11 years,parent,no,child
+1,1,1,1,1,1,1,1,1,1,11.0,male,asian,yes,no,india,no,10.0,4-11 years,relative,yes,child
+1,1,1,1,1,1,1,0,1,1,10.0,female,asian,no,no,united states,no,9.0,4-11 years,parent,yes,child
+1,1,0,1,0,1,0,0,1,1,6.0,female,white-european,no,no,united states,no,6.0,4-11 years,parent,no,child
+0,0,0,1,1,1,1,1,1,0,4.0,male,asian,no,no,bangladesh,no,6.0,4-11 years,relative,no,child
+0,1,1,0,1,0,0,0,0,1,4.0,male,asian,no,yes,bangladesh,no,4.0,4-11 years,parent,no,child
+0,1,1,1,0,1,0,1,1,1,4.0,male,asian,no,no,bangladesh,no,7.0,4-11 years,relative,yes,child
+0,0,1,1,0,0,1,1,1,0,10.0,male,white-european,no,no,united states,no,5.0,4-11 years,parent,no,child
+1,1,1,1,1,1,1,1,1,1,7.0,male,white-european,no,no,united kingdom,no,10.0,4-11 years,relative,yes,child
+0,1,1,0,0,1,1,1,0,0,4.0,male,unknown,yes,no,qatar,no,5.0,4-11 years,parent,no,child
+1,1,1,0,0,1,1,1,1,1,6.0,female,white-european,yes,no,ireland,no,8.0,4-11 years,parent,yes,child
+0,1,1,0,1,1,1,1,1,1,5.0,male,asian,no,no,india,no,8.0,4-11 years,parent,yes,child
+1,1,1,1,0,1,0,1,0,1,6.0,male,unknown,yes,no,jordan,no,7.0,4-11 years,parent,yes,child
+0,0,1,0,1,1,1,1,1,1,4.0,female,asian,yes,no,united kingdom,no,7.0,4-11 years,parent,yes,child
+1,0,1,0,1,1,1,1,0,0,9.0,male,asian,no,no,india,yes,6.0,4-11 years,parent,no,child
+1,0,1,1,0,1,1,1,0,1,4.0,female,white-european,yes,no,united states,no,7.0,4-11 years,parent,yes,child
+1,1,1,1,1,1,1,0,1,1,10.0,male,white-european,no,no,new zealand,yes,9.0,4-11 years,parent,yes,child
+1,1,0,0,0,0,1,0,0,1,9.0,male,white-european,no,no,new zealand,no,4.0,4-11 years,parent,no,child
+0,1,1,1,1,1,0,0,0,1,5.0,male,white-european,yes,yes,united kingdom,no,6.0,4-11 years,parent,no,child
+1,1,1,0,0,0,0,0,1,1,4.0,female,black,no,no,canada,no,5.0,4-11 years,parent,no,child
+1,1,1,1,1,1,0,1,1,1,4.0,male,white-european,no,yes,united kingdom,no,9.0,4-11 years,parent,yes,child
+0,1,1,1,1,0,0,0,1,0,6.0,male,white-european,no,no,romania,no,5.0,4-11 years,parent,no,child
+1,1,1,0,1,0,1,0,1,1,4.0,female,white-european,yes,no,united kingdom,no,7.0,4-11 years,parent,yes,child
+0,0,0,0,0,0,0,0,0,0,5.0,female,hispanic,no,no,united states,no,0.0,4-11 years,parent,no,child
+0,1,1,0,1,1,1,1,0,0,6.0,male,unknown,yes,no,qatar,yes,6.0,4-11 years,parent,no,child
+1,1,1,1,1,1,1,1,1,1,9.0,male,white-european,yes,yes,united kingdom,no,10.0,4-11 years,parent,yes,child
+1,0,1,1,1,0,1,1,1,1,7.0,female,white-european,no,no,australia,no,8.0,4-11 years,parent,yes,child
+0,1,1,0,0,1,1,1,0,1,10.0,female,white-european,no,no,netherlands,no,6.0,4-11 years,parent,no,child
+1,0,1,1,1,1,0,1,0,1,4.0,male,south asian,no,no,india,no,7.0,4-11 years,parent,yes,child
+1,0,1,1,0,1,1,1,0,1,4.0,male,asian,no,no,india,no,7.0,4-11 years,relative,yes,child
+1,1,0,1,1,1,1,0,0,0,7.0,female,white-european,no,no,united kingdom,no,6.0,4-11 years,parent,no,child
+1,1,1,1,1,1,1,0,1,1,4.0,male,black,yes,no,united states,no,9.0,4-11 years,parent,yes,child
+0,1,1,0,1,0,1,0,0,1,4.0,male,unknown,yes,no,lebanon,no,5.0,4-11 years,parent,no,child
+1,1,1,1,1,1,1,0,1,1,10.0,male,white-european,no,no,germany,no,9.0,4-11 years,health care professional,yes,child
+0,0,1,0,1,1,0,1,1,1,4.0,male,asian,no,no,india,no,6.0,4-11 years,parent,no,child
+0,0,0,0,1,1,1,0,0,0,4.0,male,unknown,no,no,latvia,yes,3.0,4-11 years,parent,no,child
+1,1,1,1,1,1,0,0,0,1,4.0,male,south asian,no,yes,saudi arabia,no,7.0,4-11 years,parent,yes,child
+1,0,1,0,1,1,0,1,1,1,4.0,male,black,no,yes,united states,no,7.0,4-11 years,parent,yes,child
+0,1,1,0,0,0,1,1,1,1,7.0,male,white-european,yes,no,united states,no,6.0,4-11 years,parent,no,child
+1,1,1,1,1,1,1,0,1,1,4.0,male,white-european,no,no,united states,no,9.0,4-11 years,parent,yes,child
+1,1,1,1,1,0,1,0,1,1,5.0,female,white-european,no,no,new zealand,no,8.0,4-11 years,parent,yes,child
+1,1,1,1,1,1,1,1,0,1,6.0,male,others,yes,no,united kingdom,no,9.0,4-11 years,parent,yes,child
+0,1,0,0,0,1,1,1,1,1,6.0,female,asian,no,no,united kingdom,no,6.0,4-11 years,parent,no,child
+1,1,0,0,1,1,1,1,1,1,6.0,female,white-european,no,yes,united kingdom,no,8.0,4-11 years,parent,yes,child
+0,1,0,1,1,1,1,0,1,1,9.0,male,white-european,no,yes,united kingdom,no,7.0,4-11 years,parent,yes,child
+1,1,1,1,1,1,1,1,1,1,8.0,male,white-european,no,no,united kingdom,no,10.0,4-11 years,parent,yes,child
+1,0,1,1,1,1,0,1,0,1,11.0,male,unknown,no,no,jordan,no,7.0,4-11 years,parent,yes,child
+1,0,0,0,1,1,1,1,1,1,9.0,male,white-european,no,no,australia,no,7.0,4-11 years,parent,yes,child
+0,1,0,0,0,1,0,0,0,1,9.0,female,white-european,no,yes,united kingdom,no,3.0,4-11 years,parent,no,child
+1,0,0,1,1,1,1,0,1,1,7.0,male,black,no,no,united states,no,7.0,4-11 years,parent,yes,child
+0,0,1,0,0,1,1,0,0,1,4.0,male,asian,no,no,india,no,4.0,4-11 years,relative,no,child
+1,0,0,0,1,1,1,0,0,1,10.0,female,others,no,no,australia,no,5.0,4-11 years,self,no,child
+0,0,0,0,1,0,1,1,0,1,8.0,male,middle eastern,no,no,united arab emirates,no,4.0,4-11 years,parent,no,child
+1,0,1,1,1,1,1,1,0,1,6.0,male,others,no,no,australia,no,8.0,4-11 years,parent,yes,child
+0,1,1,1,1,1,0,1,1,1,8.0,male,unknown,yes,no,russia,no,8.0,4-11 years,parent,yes,child
+1,0,1,1,1,1,1,1,1,1,11.0,female,white-european,no,no,austria,no,9.0,4-11 years,parent,yes,child
+1,1,1,0,1,0,1,0,0,0,5.0,female,white-european,no,no,italy,no,5.0,4-11 years,parent,no,child
+0,0,1,0,1,0,1,0,0,1,4.0,female,white-european,no,yes,australia,no,4.0,4-11 years,relative,no,child
+1,1,1,1,1,1,1,1,1,1,11.0,male,white-european,no,no,australia,no,10.0,4-11 years,parent,yes,child
+0,0,1,1,1,1,0,0,0,1,11.0,female,others,yes,no,united kingdom,no,5.0,4-11 years,self,no,child
+0,1,1,0,0,1,1,1,0,0,4.0,male,unknown,yes,no,qatar,yes,5.0,4-11 years,parent,no,child
+1,0,1,0,1,1,0,0,0,0,8.0,male,white-european,no,no,united kingdom,no,4.0,4-11 years,parent,no,child
+1,0,1,1,1,0,0,0,0,0,8.0,male,white-european,no,no,united kingdom,yes,4.0,4-11 years,parent,no,child
+1,1,1,1,1,1,1,1,1,1,9.0,male,white-european,no,no,united kingdom,no,10.0,4-11 years,parent,yes,child
+0,0,0,1,0,1,0,0,1,1,4.0,male,asian,no,no,bangladesh,no,4.0,4-11 years,parent,no,child
+0,0,1,0,1,1,1,1,1,1,4.0,male,asian,no,no,bangladesh,no,7.0,4-11 years,parent,yes,child
+1,1,1,1,1,1,0,0,1,1,4.0,female,unknown,yes,no,china,no,8.0,4-11 years,parent,yes,child
+0,1,1,0,1,0,1,0,0,0,4.0,female,unknown,no,no,pakistan,no,4.0,4-11 years,parent,no,child
+1,0,0,1,1,1,1,1,1,1,11.0,male,hispanic,no,no,united states,yes,8.0,4-11 years,self,yes,child
+0,1,1,1,0,1,0,0,0,1,10.0,female,asian,no,no,australia,no,5.0,4-11 years,parent,no,child
+1,0,1,1,1,1,0,1,0,1,11.0,male,asian,no,no,india,no,7.0,4-11 years,parent,yes,child
+1,0,1,0,1,0,1,0,1,1,4.0,male,black,yes,no,united kingdom,no,6.0,4-11 years,parent,no,child
+1,1,1,0,1,0,1,1,1,1,4.0,male,white-european,yes,no,united states,no,8.0,4-11 years,parent,yes,child
+1,1,1,1,1,1,1,1,1,1,6.0,female,black,no,no,nigeria,no,10.0,4-11 years,parent,yes,child
+0,0,1,1,1,1,1,1,0,0,8.0,male,white-european,no,no,united kingdom,no,6.0,4-11 years,parent,no,child
+1,1,1,1,1,0,1,1,1,1,4.0,female,white-european,no,yes,australia,no,9.0,4-11 years,parent,yes,child
+1,1,1,0,1,1,0,1,0,1,4.0,male,unknown,no,no,lebanon,no,7.0,4-11 years,parent,yes,child
+1,1,0,1,1,1,1,0,0,1,8.0,male,white-european,no,no,armenia,no,7.0,4-11 years,parent,yes,child
+1,1,1,0,1,1,0,0,1,1,11.0,male,hispanic,no,no,united states,no,7.0,4-11 years,relative,yes,child
+1,0,1,0,1,1,1,0,1,0,4.0,female,white-european,yes,yes,united kingdom,no,6.0,4-11 years,parent,no,child
+1,1,0,0,1,1,1,0,0,0,5.0,male,unknown,no,no,iraq,no,5.0,4-11 years,parent,no,child
+1,1,1,0,0,0,0,0,0,0,4.0,male,white-european,no,no,u.s. outlying islands,no,3.0,4-11 years,parent,no,child
+1,1,1,1,1,1,0,0,1,1,8.0,male,black,no,no,australia,no,8.0,4-11 years,parent,yes,child
+0,0,1,0,1,1,1,1,1,1,4.0,male,pasifika,no,no,new zealand,no,7.0,4-11 years,health care professional,yes,child
+0,1,1,1,1,1,1,1,1,1,4.0,male,south asian,no,no,india,no,9.0,4-11 years,parent,yes,child
+1,0,0,0,1,0,1,0,0,1,9.0,male,white-european,no,yes,australia,no,4.0,4-11 years,parent,no,child
+1,0,0,0,1,0,1,0,0,1,9.0,male,white-european,yes,yes,australia,no,4.0,4-11 years,parent,no,child
+1,1,1,1,1,1,1,0,1,0,4.0,female,white-european,no,yes,united kingdom,no,8.0,4-11 years,parent,yes,child
+0,0,1,0,1,0,1,0,0,1,5.0,male,south asian,no,no,india,no,4.0,4-11 years,relative,no,child
+1,1,1,1,1,1,0,0,0,1,7.0,female,asian,yes,no,india,no,7.0,4-11 years,parent,yes,child
+1,0,1,1,1,0,1,1,1,1,4.0,female,white-european,yes,no,united kingdom,no,8.0,4-11 years,parent,yes,child
+1,1,1,1,0,1,0,0,0,0,5.0,female,white-european,no,no,united kingdom,no,5.0,4-11 years,parent,no,child
+1,1,1,1,1,1,0,1,1,0,6.0,male,asian,no,no,nepal,no,8.0,4-11 years,health care professional,yes,child
+1,1,1,1,0,1,1,1,1,1,8.0,male,white-european,no,no,united kingdom,no,9.0,4-11 years,parent,yes,child
+1,0,0,0,1,0,0,0,0,1,4.0,male,asian,no,no,bangladesh,no,3.0,4-11 years,parent,no,child
+1,0,1,1,1,1,0,1,0,0,5.0,male,latino,no,yes,mexico,no,6.0,4-11 years,parent,no,child
+1,0,1,1,1,1,0,1,0,1,5.0,male,latino,no,yes,mexico,no,7.0,4-11 years,parent,yes,child
+1,0,1,0,1,0,1,0,1,1,6.0,male,white-european,yes,no,united states,no,6.0,4-11 years,parent,no,child
+0,1,1,0,1,1,0,0,0,1,4.0,male,unknown,yes,no,malaysia,no,5.0,4-11 years,parent,no,child
+0,0,1,0,1,1,1,0,1,1,8.0,male,white-european,no,no,united kingdom,no,6.0,4-11 years,parent,no,child
+1,0,1,1,0,1,0,1,1,0,5.0,male,south asian,no,no,india,no,6.0,4-11 years,parent,no,child
+1,1,1,1,1,1,1,1,1,1,4.0,female,asian,no,yes,united states,no,10.0,4-11 years,parent,yes,child
+1,0,1,1,1,1,1,1,1,0,6.0,male,white-european,no,no,australia,no,8.0,4-11 years,parent,yes,child
+0,0,0,0,0,0,0,0,0,1,11.0,male,turkish,no,yes,turkey,no,1.0,4-11 years,parent,no,child
+0,0,1,0,0,0,1,0,1,0,6.0,male,others,no,no,united kingdom,no,3.0,4-11 years,parent,no,child
+1,0,1,1,1,1,1,1,1,1,4.0,female,hispanic,no,no,united states,no,9.0,4-11 years,parent,yes,child
+1,1,1,1,1,1,1,1,1,1,8.0,male,white-european,no,no,united states,no,10.0,4-11 years,parent,yes,child
+1,1,1,1,1,1,1,0,0,1,4.0,male,white-european,no,yes,united states,no,8.0,4-11 years,parent,yes,child
+1,1,1,1,1,0,1,1,0,0,4.0,male,white-european,no,no,united states,no,7.0,4-11 years,parent,yes,child
+1,1,1,1,1,1,0,0,1,1,6.0,male,white-european,no,no,united states,no,8.0,4-11 years,parent,yes,child
+1,0,1,1,1,0,0,0,0,0,8.0,male,white-european,yes,no,canada,no,4.0,4-11 years,health care professional,no,child
+1,1,1,1,1,1,1,1,1,1,9.0,male,black,yes,no,united kingdom,no,10.0,4-11 years,parent,yes,child
+0,0,0,0,1,1,0,1,0,1,8.0,female,south asian,no,no,india,no,4.0,4-11 years,parent,no,child
+0,0,1,0,1,1,1,1,1,1,5.0,male,south asian,no,no,india,no,7.0,4-11 years,parent,yes,child
+1,0,0,0,1,0,1,1,0,0,5.0,male,middle eastern,no,no,jordan,no,4.0,4-11 years,health care professional,no,child
+1,1,1,1,0,1,0,1,1,1,4.0,male,asian,yes,no,isle of man,no,8.0,4-11 years,health care professional,yes,child
+1,0,0,1,1,1,1,1,1,1,10.0,male,white-european,no,no,united states,no,8.0,4-11 years,parent,yes,child
+0,1,1,0,0,1,1,0,0,1,4.0,male,unknown,yes,no,libya,no,5.0,4-11 years,parent,no,child
+0,1,1,1,1,1,1,0,0,1,4.0,male,unknown,yes,no,libya,yes,7.0,4-11 years,parent,yes,child
+0,1,1,1,1,1,0,1,1,1,5.0,male,unknown,no,no,russia,no,8.0,4-11 years,parent,yes,child
+0,1,1,0,1,1,1,0,0,0,4.0,male,others,yes,no,libya,no,5.0,4-11 years,parent,no,child
+0,0,1,1,1,1,0,1,0,1,5.0,male,unknown,no,no,russia,no,6.0,4-11 years,parent,no,child
+1,1,1,1,1,1,1,0,1,1,7.0,female,asian,no,no,philippines,no,9.0,4-11 years,parent,yes,child
+0,1,1,0,0,1,0,0,1,1,11.0,female,latino,yes,no,philippines,no,5.0,4-11 years,health care professional,no,child
+1,0,0,1,0,1,0,1,1,0,11.0,male,asian,no,no,india,no,5.0,4-11 years,parent,no,child
+1,0,0,1,1,1,0,0,0,1,11.0,female,white-european,no,yes,australia,no,5.0,4-11 years,parent,no,child
+1,1,1,1,0,0,1,0,1,0,9.0,male,south asian,no,no,new zealand,no,6.0,4-11 years,parent,no,child
+1,0,1,0,1,1,1,0,0,1,6.0,male,south asian,yes,no,india,no,6.0,4-11 years,parent,no,child
+0,1,0,0,0,0,1,0,0,1,6.0,male,unknown,yes,no,saudi arabia,no,3.0,4-11 years,parent,no,child
+1,1,0,0,0,0,1,0,0,0,9.0,female,unknown,yes,no,saudi arabia,no,3.0,4-11 years,parent,no,child
+0,1,1,0,1,1,0,1,0,1,7.0,male,unknown,yes,no,jordan,no,6.0,4-11 years,parent,no,child
+1,1,1,0,0,1,0,1,0,1,5.0,male,middle eastern,no,no,jordan,no,6.0,4-11 years,parent,no,child
+1,1,1,0,1,0,0,0,0,0,5.0,male,middle eastern,yes,no,united arab emirates,no,4.0,4-11 years,parent,no,child
+0,0,0,0,0,0,1,0,0,0,10.0,male,middle eastern,no,yes,united arab emirates,no,1.0,4-11 years,parent,no,child
+0,0,1,0,0,0,1,0,0,1,7.0,male,middle eastern,no,no,jordan,no,3.0,4-11 years,parent,no,child
+0,1,0,1,1,0,1,1,0,1,9.0,male,unknown,yes,no,egypt,no,6.0,4-11 years,parent,no,child
+0,1,0,1,1,1,1,1,0,1,7.0,male,middle eastern,yes,no,egypt,no,7.0,4-11 years,parent,yes,child
+0,1,1,1,1,1,1,1,0,1,7.0,male,unknown,yes,no,egypt,no,8.0,4-11 years,parent,yes,child
+1,0,1,0,1,1,1,1,0,1,7.0,male,middle eastern,yes,no,jordan,no,7.0,4-11 years,parent,yes,child
+1,0,1,1,1,1,1,1,0,1,9.0,female,middle eastern,no,no,egypt,no,8.0,4-11 years,parent,yes,child
+1,1,1,0,0,1,0,0,0,1,5.0,male,middle eastern,yes,no,united arab emirates,no,5.0,4-11 years,parent,no,child
+1,1,1,0,1,1,0,0,0,0,4.0,male,south asian,no,no,india,no,5.0,4-11 years,parent,no,child
+0,0,0,1,1,1,0,0,0,1,5.0,male,asian,no,yes,india,no,4.0,4-11 years,parent,no,child
+1,1,1,1,1,1,1,1,1,1,4.0,female,south asian,no,no,armenia,no,10.0,4-11 years,health care professional,yes,child
+1,0,0,0,1,0,1,0,0,1,5.0,male,south asian,no,no,india,no,4.0,4-11 years,parent,no,child
+1,0,1,1,1,1,1,1,0,1,5.0,male,black,no,no,united states,no,8.0,4-11 years,parent,yes,child
+1,1,1,1,0,1,0,0,0,1,4.0,male,white-european,no,no,italy,no,6.0,4-11 years,parent,no,child
+1,1,0,0,1,0,1,1,0,0,6.0,male,asian,no,no,india,no,5.0,4-11 years,parent,no,child
+1,1,1,1,1,1,1,1,1,1,6.0,female,black,no,no,canada,no,10.0,4-11 years,parent,yes,child
+0,1,1,0,0,1,1,0,1,1,5.0,male,asian,no,no,india,yes,6.0,4-11 years,relative,no,child
+1,0,1,1,1,1,1,0,1,1,11.0,male,white-european,no,no,united kingdom,no,8.0,4-11 years,parent,yes,child
+1,1,1,1,0,1,0,1,1,1,10.0,male,black,yes,no,india,no,8.0,4-11 years,parent,yes,child
+1,1,0,0,1,1,0,0,0,1,4.0,male,south asian,no,no,india,no,5.0,4-11 years,parent,no,child
+1,0,1,1,1,1,1,1,1,1,5.0,male,others,no,no,united kingdom,no,9.0,4-11 years,parent,yes,child
+1,0,1,0,1,1,1,0,1,1,10.0,male,unknown,yes,no,pakistan,no,7.0,4-11 years,parent,yes,child
+1,0,1,0,0,0,1,1,0,0,9.0,male,middle eastern,yes,no,new zealand,no,4.0,4-11 years,parent,no,child
+0,1,1,1,1,1,0,1,0,1,4.0,male,asian,no,no,india,no,7.0,4-11 years,parent,yes,child
+1,0,1,0,0,0,0,0,1,0,4.0,female,white-european,no,yes,united kingdom,no,3.0,4-11 years,parent,no,child
+0,0,1,0,0,0,1,0,1,0,5.0,male,black,no,no,ghana,no,3.0,4-11 years,parent,no,child
+1,1,1,1,1,0,1,1,1,1,8.0,male,white-european,no,yes,australia,no,9.0,4-11 years,parent,yes,child
+1,1,1,1,1,1,1,0,1,1,8.0,male,white-european,yes,no,united states,no,9.0,4-11 years,parent,yes,child
+1,0,1,1,0,0,0,0,1,0,6.0,male,asian,no,no,india,no,4.0,4-11 years,health care professional,no,child
+0,0,1,0,1,1,1,1,0,1,11.0,male,asian,no,no,india,no,6.0,4-11 years,parent,no,child
+1,1,1,0,1,1,0,0,1,1,10.0,female,asian,no,no,india,no,7.0,4-11 years,parent,yes,child
+1,0,0,0,1,0,0,1,0,1,6.0,female,white-european,no,no,united kingdom,no,4.0,4-11 years,parent,no,child
+1,1,1,1,1,1,1,1,1,0,6.0,male,asian,no,yes,india,no,9.0,4-11 years,parent,yes,child
+0,0,1,0,0,0,0,0,0,1,4.0,male,black,no,yes,india,no,2.0,4-11 years,parent,no,child
+0,1,1,1,1,1,0,0,0,1,4.0,male,white-european,no,no,australia,no,6.0,4-11 years,parent,no,child
+0,1,1,0,0,1,0,1,1,1,4.0,female,white-european,yes,no,united kingdom,no,6.0,4-11 years,parent,no,child
+0,0,0,0,1,1,1,0,1,0,5.0,male,others,no,no,united states,no,4.0,4-11 years,parent,no,child
+1,0,1,0,1,1,1,0,0,1,10.0,female,white-european,no,no,australia,no,6.0,4-11 years,health care professional,no,child
+0,1,0,1,1,1,1,1,1,1,10.0,female,white-european,no,no,australia,no,8.0,4-11 years,health care professional,yes,child
+0,1,1,1,1,1,1,1,1,1,5.0,female,latino,yes,no,bhutan,no,9.0,4-11 years,parent,yes,child
+1,1,1,1,1,1,1,1,1,1,7.0,female,white-european,yes,yes,united kingdom,no,10.0,4-11 years,parent,yes,child
+1,0,0,0,1,0,1,0,0,1,7.0,female,white-european,yes,yes,australia,no,4.0,4-11 years,parent,no,child
+1,0,1,1,1,1,1,0,0,1,4.0,male,latino,no,no,brazil,no,7.0,4-11 years,parent,yes,child
+1,1,1,0,1,1,1,1,1,1,4.0,male,south asian,no,no,india,no,9.0,4-11 years,parent,yes,child
+0,0,1,0,1,0,1,0,0,0,4.0,female,south asian,no,no,india,no,3.0,4-11 years,parent,no,child

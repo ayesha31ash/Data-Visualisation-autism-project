@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Autism Screening Across the Lifespan: Age, Demographic, and Geographic Patterns</title>
+    
+    <!-- Load D3.js -->
+    <script src="libs/d3/d3.v7.min.js"></script>
+
+    <!-- Load CSS Styles -->
+    <link rel="stylesheet" href="styles/main.css">
+    <link rel="stylesheet" href="styles/Lollipop.css">
+    <link rel="stylesheet" href="styles/Boxplot.css">
+    <link rel="stylesheet" href="styles/Histogram.css">
+    <link rel="stylesheet" href="styles/MirroredBar.css">
+    <link rel="stylesheet" href="styles/Sunburst.css">
+    <link rel="stylesheet" href="styles/Choropleth.css">
+</head>
+<body>
+    <h1>Autism Screening Across the Lifespan</h1>
+
+    <!-- Navigation Menu with Smooth Scroll -->
+    <nav>
+        <ul>
+            <li><a href="#lollipop-chart">AQ-10 Score Distribution</a></li>
+            <li><a href="#box-plot">AQ-10 Score Variability</a></li>
+            <li><a href="#histogram">AQ-10 Score Frequency</a></li>
+            <li><a href="#mirrored-bar-chart">Demographics (Mirrored Bar Chart)</a></li>
+            <li><a href="#sunburst-chart">Age & Gender Trends (Sunburst Chart)</a></li>
+            <li><a href="#choropleth-map">Geographic Screening Trends</a></li>
+        </ul>
+    </nav>   
+
+    <!-- Visualization Sections -->
+    <section id="lollipop-chart">
+        <div class="lollipop-chart-container">
+            <h2>AQ-10 Score Distribution (Lollipop Chart)</h2>
+            <div class="viz-container"></div>
+        </div>
+    </section>
+
+    <section id="box-plot">
+        <div class="box-plot-container">
+            <h2>AQ-10 Score Variability (Box Plot)</h2>
+            <div class="viz-container"></div>
+        </div>
+    </section>
+
+    <section id="histogram">
+        <div class="histogram-container">
+            <h2>Age Group Comparison - AQ-10 Score Frequency (Histogram)</h2>
+            <div class="viz-container"></div>
+        </div>
+    </section>
+
+    <!-- MIRRORED-BAR-CHART -->
+    <section id="mirrored-bar-chart">
+        <div class="mirrored-bar-chart-container">
+            <h2>Demographics: ASD Diagnosis by Gender & Ethnicity (Mirrored Bar Chart)</h2>
+            <div class="viz-container"></div>
+        </div>
+    </section>
+
+    <section id="sunburst-chart">
+        <div class="sunburst-chart-container">
+            <h2>Age & Gender Trends in ASD Diagnosis (Sunburst Chart)</h2>
+            <div class="tooltip"></div>
+            <style>
+                .tooltip {
+                    position: absolute;
+                    background: #fff;
+                    border: 1px solid #ccc;
+                    padding: 8px;
+                    border-radius: 5px;
+                    box-shadow: 0px 2px 5px rgba(0,0,0,0.2);
+                    visibility: hidden;
+                    font-size: 14px;
+                    
+                }
+                #summary-box {
+                    border: 1px solid #ccc;
+                    padding: 10px;
+                    margin-top: 20px;
+                    background: #f9f9f9;
+                    border-radius: 5px;
+                    width: 300px;
+                }
+            </style>    
+            <div id="sunburst-chart"></div> <!-- Changed this line to match the updated container div -->
+        </div>
+    </section>
+
+    <section id="choropleth-map">
+        <div class="choropleth-map-container">
+            <h2>Geographic Screening Trends (Choropleth Map)</h2>
+            <div class="viz-container"></div>
+        </div>
+    </section>
+
+    <!-- Load JavaScript for Each Visualization -->
+    <script src="scripts/Lollipop.js"></script>
+    <script src="scripts/BoxPlot.js"></script>
+    <script src="scripts/Histogram.js"></script>
+    <script src="scripts/MirroredBar.js"></script>
+    <script src="scripts/Sunburst.js"></script>
+    <script src="scripts/Choropleth.js"></script>
+    <script>
+        // Smooth Scrolling for Navigation Links
+        document.querySelectorAll('nav a').forEach(anchor => {
+            anchor.addEventListener('click', function(event) {
+                event.preventDefault();
+                document.querySelector(this.getAttribute('href')).scrollIntoView({
+                    behavior: 'smooth'
+                });
+            });
+        });
+    </script>
+
+</body>
+</html>

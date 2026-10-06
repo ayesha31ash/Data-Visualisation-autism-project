@@ -1,0 +1,30 @@
+.viz-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+}
+
+.bar-diagnosed, .bar-non-diagnosed {
+    transition: 0.3s;
+}
+
+.bar-diagnosed:hover, .bar-non-diagnosed:hover {
+    opacity: 0.7;
+}
+
+.tooltip {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    color: black;
+    background: white;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 8px;
+    text-align: center;
+    position: absolute;
+    display: none;
+    pointer-events: none;
+    box-shadow: 3px 3px 12px rgba(0, 0, 0, 0.3);
+}
